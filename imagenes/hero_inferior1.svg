@@ -1,0 +1,1548 @@
+<?xml version="1.0"?>
+<svg width="1381.5" height="788.999998" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" version="1.0">
+ <defs>
+  <clipPath id="b6afc1a7d6">
+   <path clip-rule="nonzero" d="m274,125.27l813.86,0l0,563.73l-813.86,0l0,-563.73zm0,0" id="svg_1"/>
+  </clipPath>
+  <clipPath id="689b76c50e">
+   <path clip-rule="nonzero" d="m549,754l264,0l0,34.86l-264,0l0,-34.86zm0,0" id="svg_2"/>
+  </clipPath>
+  <clipPath id="3c713e0ebd">
+   <path clip-rule="nonzero" d="m860,466.75l384,0l0,255.25l-384,0l0,-255.25zm0,0" id="svg_3"/>
+  </clipPath>
+  <clipPath id="4073ee9b92">
+   <path clip-rule="nonzero" d="m802,714l500.79,0l0,74.86l-500.79,0l0,-74.86zm0,0" id="svg_4"/>
+  </clipPath>
+  <clipPath id="55629da14c">
+   <path clip-rule="nonzero" d="m1017,495l43,0l0,4l-43,0l0,-4zm0,0" id="svg_5"/>
+  </clipPath>
+  <clipPath id="f3c5b79e25">
+   <path clip-rule="nonzero" d="m1058.34,498.13l-39.22,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.87 0.71,-1.57 1.58,-1.57l39.22,0c0.87,0 1.58,0.7 1.58,1.57c0,0.87 -0.71,1.56 -1.58,1.56zm0,0" id="svg_6"/>
+  </clipPath>
+  <linearGradient id="94ba221ccc" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 73.123169%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 73.031616%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 72.848511%, 100%)"/>
+  </linearGradient>
+  <clipPath id="404a4f500b">
+   <path clip-rule="nonzero" d="m1017,503l27,0l0,4l-27,0l0,-4zm0,0" id="svg_7"/>
+  </clipPath>
+  <clipPath id="da51b802c1">
+   <path clip-rule="nonzero" d="m1042.09,506.27l-22.97,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l22.97,0c0.87,0 1.59,0.7 1.59,1.56c0,0.86 -0.72,1.56 -1.59,1.56zm0,0" id="svg_8"/>
+  </clipPath>
+  <linearGradient id="7e3f24c2f6" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 72.166443%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 72.07489%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 71.891785%, 100%)"/>
+  </linearGradient>
+  <clipPath id="bc8af17e84">
+   <path clip-rule="nonzero" d="m1042,519l36,0l0,4l-36,0l0,-4zm0,0" id="svg_9"/>
+  </clipPath>
+  <clipPath id="58cc4d7181">
+   <path clip-rule="nonzero" d="m1075.96,522.56l-31.53,0c-0.88,0 -1.59,-0.7 -1.59,-1.56c0,-0.86 0.71,-1.56 1.59,-1.56l31.53,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_10"/>
+  </clipPath>
+  <linearGradient id="fc272b08e8" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 70.256042%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 70.16449%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 69.981384%, 100%)"/>
+  </linearGradient>
+  <clipPath id="6bd54f93fe">
+   <path clip-rule="nonzero" d="m1028,543l18,0l0,4l-18,0l0,-4zm0,0" id="svg_11"/>
+  </clipPath>
+  <clipPath id="bd5471dafb">
+   <path clip-rule="nonzero" d="m1043.71,546.99l-13.3,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l13.3,0c0.88,0 1.59,0.7 1.59,1.56c0,0.86 -0.71,1.56 -1.59,1.56zm0,0" id="svg_12"/>
+  </clipPath>
+  <linearGradient id="7e073ba6ed" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 67.388916%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 67.297363%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 67.114258%, 100%)"/>
+  </linearGradient>
+  <clipPath id="47fb0440fd">
+   <path clip-rule="nonzero" d="m1054,568l27,0l0,4l-27,0l0,-4zm0,0" id="svg_13"/>
+  </clipPath>
+  <clipPath id="82d5cd006b">
+   <path clip-rule="nonzero" d="m1078.99,571.43l-22.92,0c-0.87,0 -1.59,-0.71 -1.59,-1.57c0,-0.86 0.72,-1.56 1.59,-1.56l22.92,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.57 -1.58,1.57zm0,0" id="svg_14"/>
+  </clipPath>
+  <linearGradient id="2686ff515c" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 64.52179%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 64.430237%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 64.247131%, 100%)"/>
+  </linearGradient>
+  <clipPath id="0048b1394b">
+   <path clip-rule="nonzero" d="m1124,568l24,0l0,4l-24,0l0,-4zm0,0" id="svg_15"/>
+  </clipPath>
+  <clipPath id="910b550fb8">
+   <path clip-rule="nonzero" d="m1146.09,571.43l-20.2,0c-0.87,0 -1.57,-0.71 -1.57,-1.57c0,-0.86 0.7,-1.56 1.57,-1.56l20.2,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.57 -1.58,1.57zm0,0" id="svg_16"/>
+  </clipPath>
+  <linearGradient id="ddd95be9ef" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 64.52179%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 64.430237%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 64.247131%, 100%)"/>
+  </linearGradient>
+  <clipPath id="9383612b59">
+   <path clip-rule="nonzero" d="m1067,576l28,0l0,4l-28,0l0,-4zm0,0" id="svg_17"/>
+  </clipPath>
+  <clipPath id="a7f465ce63">
+   <path clip-rule="nonzero" d="m1093.2,579.56l-24.34,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l24.34,0c0.87,0 1.59,0.7 1.59,1.56c0,0.86 -0.72,1.56 -1.59,1.56zm0,0" id="svg_18"/>
+  </clipPath>
+  <linearGradient id="0a295045b1" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 63.566589%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 63.475037%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 63.291931%, 100%)"/>
+  </linearGradient>
+  <clipPath id="7794c6ba38">
+   <path clip-rule="nonzero" d="m1054,592l28,0l0,4l-28,0l0,-4zm0,0" id="svg_19"/>
+  </clipPath>
+  <clipPath id="35346c8cab">
+   <path clip-rule="nonzero" d="m1079.96,595.85l-24.34,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l24.34,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_20"/>
+  </clipPath>
+  <linearGradient id="8992ccdd54" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 61.656189%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 61.564636%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 61.381531%, 100%)"/>
+  </linearGradient>
+  <clipPath id="9a9fa16287">
+   <path clip-rule="nonzero" d="m1054,617l22,0l0,4l-22,0l0,-4zm0,0" id="svg_21"/>
+  </clipPath>
+  <clipPath id="0cc6ad2259">
+   <path clip-rule="nonzero" d="m1074.04,620.28l-17.84,0c-0.88,0 -1.59,-0.7 -1.59,-1.56c0,-0.86 0.71,-1.56 1.59,-1.56l17.84,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_22"/>
+  </clipPath>
+  <linearGradient id="90ae7b3ce9" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 58.789062%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 58.69751%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 58.514404%, 100%)"/>
+  </linearGradient>
+  <clipPath id="363881c0fc">
+   <path clip-rule="nonzero" d="m1042,625l22,0l0,4l-22,0l0,-4zm0,0" id="svg_23"/>
+  </clipPath>
+  <clipPath id="051728b082">
+   <path clip-rule="nonzero" d="m1062.1,628.42l-17.83,0c-0.88,0 -1.59,-0.7 -1.59,-1.56c0,-0.86 0.71,-1.56 1.59,-1.56l17.83,0c0.87,0 1.58,0.7 1.58,1.56c0,0.87 -0.7,1.56 -1.58,1.56zm0,0" id="svg_24"/>
+  </clipPath>
+  <linearGradient id="ae2721556f" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 57.833862%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 57.74231%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 57.559204%, 100%)"/>
+  </linearGradient>
+  <clipPath id="2f1c94fce6">
+   <path clip-rule="nonzero" d="m1042,633l22,0l0,4l-22,0l0,-4zm0,0" id="svg_25"/>
+  </clipPath>
+  <clipPath id="d54c36d8a2">
+   <path clip-rule="nonzero" d="m1062.1,636.57l-17.83,0c-0.88,0 -1.59,-0.71 -1.59,-1.57c0,-0.86 0.71,-1.56 1.59,-1.56l17.83,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.7,1.57 -1.58,1.57zm0,0" id="svg_26"/>
+  </clipPath>
+  <linearGradient id="5ecdb9f238" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 56.877136%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 56.785583%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 56.602478%, 100%)"/>
+  </linearGradient>
+  <clipPath id="9068aebc55">
+   <path clip-rule="nonzero" d="m1107,633l27,0l0,4l-27,0l0,-4zm0,0" id="svg_27"/>
+  </clipPath>
+  <clipPath id="aa5d3f10f0">
+   <path clip-rule="nonzero" d="m1131.84,636.57l-22.27,0c-0.87,0 -1.58,-0.71 -1.58,-1.57c0,-0.86 0.71,-1.56 1.58,-1.56l22.27,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.7,1.57 -1.58,1.57zm0,0" id="svg_28"/>
+  </clipPath>
+  <linearGradient id="68e056413b" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 56.877136%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 56.785583%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 56.602478%, 100%)"/>
+  </linearGradient>
+  <clipPath id="ffdd637f3d">
+   <path clip-rule="nonzero" d="m1042,609l35,0l0,4l-35,0l0,-4zm0,0" id="svg_29"/>
+  </clipPath>
+  <clipPath id="6d4c7127cb">
+   <path clip-rule="nonzero" d="m1074.93,612.13l-30.66,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l30.66,0c0.87,0 1.59,0.7 1.59,1.56c0,0.86 -0.72,1.56 -1.59,1.56zm0,0" id="svg_30"/>
+  </clipPath>
+  <linearGradient id="2241af067d" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 59.744263%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 59.65271%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 59.469604%, 100%)"/>
+  </linearGradient>
+  <clipPath id="79ff7edb8c">
+   <path clip-rule="nonzero" d="m1081,617l123,0l0,4l-123,0l0,-4zm0,0" id="svg_31"/>
+  </clipPath>
+  <clipPath id="70097bb681">
+   <path clip-rule="nonzero" d="m1201.94,620.28l-118.83,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l118.83,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_32"/>
+  </clipPath>
+  <linearGradient id="26fd483461" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 58.789062%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 58.69751%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 58.514404%, 100%)"/>
+  </linearGradient>
+  <clipPath id="c0d41ab259">
+   <path clip-rule="nonzero" d="m1120,609l29,0l0,4l-29,0l0,-4zm0,0" id="svg_33"/>
+  </clipPath>
+  <clipPath id="df6c77db8b">
+   <path clip-rule="nonzero" d="m1146.75,612.13l-24.92,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l24.92,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_34"/>
+  </clipPath>
+  <linearGradient id="6010921a8b" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 59.744263%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 59.65271%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 59.469604%, 100%)"/>
+  </linearGradient>
+  <clipPath id="29a3e82486">
+   <path clip-rule="nonzero" d="m1042,600l19,0l0,4l-19,0l0,-4zm0,0" id="svg_35"/>
+  </clipPath>
+  <clipPath id="7e92e0d56c">
+   <path clip-rule="nonzero" d="m1059.14,604l-14.76,0c-0.86,0 -1.58,-0.71 -1.58,-1.57c0,-0.86 0.72,-1.56 1.58,-1.56l14.76,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.57 -1.58,1.57zm0,0" id="svg_36"/>
+  </clipPath>
+  <linearGradient id="fbd9c6f3ae" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 60.699463%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 60.60791%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 60.424805%, 100%)"/>
+  </linearGradient>
+  <clipPath id="2f9ec473d4">
+   <path clip-rule="nonzero" d="m1066,584l38,0l0,4l-38,0l0,-4zm0,0" id="svg_37"/>
+  </clipPath>
+  <clipPath id="f28340784c">
+   <path clip-rule="nonzero" d="m1102.15,587.71l-33.75,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l33.75,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_38"/>
+  </clipPath>
+  <linearGradient id="5cc95ee9f8" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 62.611389%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 62.518311%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 62.335205%, 100%)"/>
+  </linearGradient>
+  <clipPath id="86f8cc87ff">
+   <path clip-rule="nonzero" d="m1145,576l30,0l0,4l-30,0l0,-4zm0,0" id="svg_39"/>
+  </clipPath>
+  <clipPath id="c3cb8dde57">
+   <path clip-rule="nonzero" d="m1173.38,579.56l-26.11,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l26.11,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_40"/>
+  </clipPath>
+  <linearGradient id="e59f6252ed" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 63.566589%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 63.475037%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 63.291931%, 100%)"/>
+  </linearGradient>
+  <clipPath id="fc86744637">
+   <path clip-rule="nonzero" d="m1144,503l28,0l0,4l-28,0l0,-4zm0,0" id="svg_41"/>
+  </clipPath>
+  <clipPath id="2dc47d1509">
+   <path clip-rule="nonzero" d="m1169.53,506.27l-22.97,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l22.97,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_42"/>
+  </clipPath>
+  <linearGradient id="d3df8cc17e" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 72.166443%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 72.07489%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 71.891785%, 100%)"/>
+  </linearGradient>
+  <clipPath id="168bf598d9">
+   <path clip-rule="nonzero" d="m1029,511l27,0l0,4l-27,0l0,-4zm0,0" id="svg_43"/>
+  </clipPath>
+  <clipPath id="65eafb813d">
+   <path clip-rule="nonzero" d="m1054.32,514.42l-22.97,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l22.97,0c0.88,0 1.59,0.7 1.59,1.56c0,0.86 -0.7,1.56 -1.59,1.56zm0,0" id="svg_44"/>
+  </clipPath>
+  <linearGradient id="e821d4e371" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 71.211243%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 71.11969%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 70.936584%, 100%)"/>
+  </linearGradient>
+  <clipPath id="5dbae4e765">
+   <path clip-rule="nonzero" d="m1043,527l27,0l0,4l-27,0l0,-4zm0,0" id="svg_45"/>
+  </clipPath>
+  <clipPath id="32c7d92b61">
+   <path clip-rule="nonzero" d="m1068.23,530.71l-22.98,0c-0.87,0 -1.57,-0.7 -1.57,-1.57c0,-0.85 0.7,-1.55 1.57,-1.55l22.98,0c0.87,0 1.58,0.7 1.58,1.55c0,0.87 -0.71,1.57 -1.58,1.57zm0,0" id="svg_46"/>
+  </clipPath>
+  <linearGradient id="10b32f6c62" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 69.299316%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 69.207764%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 69.024658%, 100%)"/>
+  </linearGradient>
+  <clipPath id="7e88e2eb38">
+   <path clip-rule="nonzero" d="m1028,552l33,0l0,4l-33,0l0,-4zm0,0" id="svg_47"/>
+  </clipPath>
+  <clipPath id="7af03e9d67">
+   <path clip-rule="nonzero" d="m1058.61,555.13l-28.47,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l28.47,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_48"/>
+  </clipPath>
+  <linearGradient id="759af6e7af" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 66.433716%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 66.342163%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 66.159058%, 100%)"/>
+  </linearGradient>
+  <clipPath id="eeea4b74e1">
+   <path clip-rule="nonzero" d="m1042,560l49,0l0,4l-49,0l0,-4zm0,0" id="svg_49"/>
+  </clipPath>
+  <clipPath id="f3edf8c1d8">
+   <path clip-rule="nonzero" d="m1089.23,563.28l-44.82,0c-0.87,0 -1.58,-0.7 -1.58,-1.57c0,-0.85 0.71,-1.55 1.58,-1.55l44.82,0c0.87,0 1.58,0.7 1.58,1.55c0,0.87 -0.71,1.57 -1.58,1.57zm0,0" id="svg_50"/>
+  </clipPath>
+  <linearGradient id="147625ede1" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 65.478516%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 65.386963%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 65.202332%, 100%)"/>
+  </linearGradient>
+  <clipPath id="06b067b972">
+   <path clip-rule="nonzero" d="m1068,552l72,0l0,4l-72,0l0,-4zm0,0" id="svg_51"/>
+  </clipPath>
+  <clipPath id="ec455e5b11">
+   <path clip-rule="nonzero" d="m1137.61,555.13l-67.75,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l67.75,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_52"/>
+  </clipPath>
+  <linearGradient id="41d71ba0ec" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 66.433716%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 66.342163%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 66.159058%, 100%)"/>
+  </linearGradient>
+  <clipPath id="e9f326fe68">
+   <path clip-rule="nonzero" d="m1125,584l79,0l0,4l-79,0l0,-4zm0,0" id="svg_53"/>
+  </clipPath>
+  <clipPath id="92c98a2801">
+   <path clip-rule="nonzero" d="m1201.94,587.71l-75.19,0c-0.87,0 -1.59,-0.7 -1.59,-1.56c0,-0.86 0.72,-1.56 1.59,-1.56l75.19,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_54"/>
+  </clipPath>
+  <linearGradient id="e59d732242" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 62.611389%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 62.518311%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 62.335205%, 100%)"/>
+  </linearGradient>
+  <clipPath id="7f7be6cfa1">
+   <path clip-rule="nonzero" d="m1042,535l75,0l0,4l-75,0l0,-4zm0,0" id="svg_55"/>
+  </clipPath>
+  <clipPath id="67e89ae8ac">
+   <path clip-rule="nonzero" d="m1114.68,538.84l-70.25,0c-0.88,0 -1.59,-0.7 -1.59,-1.55c0,-0.87 0.71,-1.57 1.59,-1.57l70.25,0c0.87,0 1.59,0.7 1.59,1.57c0,0.85 -0.72,1.55 -1.59,1.55zm0,0" id="svg_56"/>
+  </clipPath>
+  <linearGradient id="97f88c617f" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 68.345642%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 68.254089%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 68.069458%, 100%)"/>
+  </linearGradient>
+  <clipPath id="2a973c4775">
+   <path clip-rule="nonzero" d="m1054,658l27,0l0,4l-27,0l0,-4zm0,0" id="svg_57"/>
+  </clipPath>
+  <clipPath id="f2bfb14cd7">
+   <path clip-rule="nonzero" d="m1078.99,661.55l-22.92,0c-0.87,0 -1.59,-0.7 -1.59,-1.56c0,-0.86 0.72,-1.56 1.59,-1.56l22.92,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_58"/>
+  </clipPath>
+  <linearGradient id="3d5a362e55" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 53.945923%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 53.85437%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 53.671265%, 100%)"/>
+  </linearGradient>
+  <clipPath id="02de65bc37">
+   <path clip-rule="nonzero" d="m1124,658l24,0l0,4l-24,0l0,-4zm0,0" id="svg_59"/>
+  </clipPath>
+  <clipPath id="427d59c422">
+   <path clip-rule="nonzero" d="m1146.09,661.55l-20.2,0c-0.87,0 -1.57,-0.7 -1.57,-1.56c0,-0.86 0.7,-1.56 1.57,-1.56l20.2,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_60"/>
+  </clipPath>
+  <linearGradient id="915f759283" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 53.945923%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 53.85437%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 53.671265%, 100%)"/>
+  </linearGradient>
+  <clipPath id="20951a771a">
+   <path clip-rule="nonzero" d="m1067,666l28,0l0,4l-28,0l0,-4zm0,0" id="svg_61"/>
+  </clipPath>
+  <clipPath id="a9405b8392">
+   <path clip-rule="nonzero" d="m1093.2,669.69l-24.34,0c-0.87,0 -1.58,-0.71 -1.58,-1.56c0,-0.86 0.71,-1.57 1.58,-1.57l24.34,0c0.87,0 1.59,0.71 1.59,1.57c0,0.85 -0.72,1.56 -1.59,1.56zm0,0" id="svg_62"/>
+  </clipPath>
+  <linearGradient id="183142760a" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 52.990723%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 52.89917%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 52.716064%, 100%)"/>
+  </linearGradient>
+  <clipPath id="cb535484c9">
+   <path clip-rule="nonzero" d="m1054,682l28,0l0,4l-28,0l0,-4zm0,0" id="svg_63"/>
+  </clipPath>
+  <clipPath id="ced41468a0">
+   <path clip-rule="nonzero" d="m1079.96,685.97l-24.34,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l24.34,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_64"/>
+  </clipPath>
+  <linearGradient id="ee64dc3e85" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 51.080322%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 50.98877%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 50.805664%, 100%)"/>
+  </linearGradient>
+  <clipPath id="df963b8f9c">
+   <path clip-rule="nonzero" d="m1042,690l19,0l0,5l-19,0l0,-5zm0,0" id="svg_65"/>
+  </clipPath>
+  <clipPath id="9367e92ad9">
+   <path clip-rule="nonzero" d="m1059.14,694.12l-14.76,0c-0.86,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.72,-1.56 1.58,-1.56l14.76,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_66"/>
+  </clipPath>
+  <linearGradient id="48e97548d5" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 50.123596%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 50.032043%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 49.848938%, 100%)"/>
+  </linearGradient>
+  <clipPath id="99dd983866">
+   <path clip-rule="nonzero" d="m1066,674l38,0l0,4l-38,0l0,-4zm0,0" id="svg_67"/>
+  </clipPath>
+  <clipPath id="7985c48a61">
+   <path clip-rule="nonzero" d="m1102.15,677.84l-33.75,0c-0.87,0 -1.58,-0.71 -1.58,-1.57c0,-0.86 0.71,-1.56 1.58,-1.56l33.75,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.57 -1.58,1.57zm0,0" id="svg_68"/>
+  </clipPath>
+  <linearGradient id="88fe32ea71" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 52.035522%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 51.942444%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 51.759338%, 100%)"/>
+  </linearGradient>
+  <clipPath id="ff2da6acd8">
+   <path clip-rule="nonzero" d="m1145,666l30,0l0,4l-30,0l0,-4zm0,0" id="svg_69"/>
+  </clipPath>
+  <clipPath id="4031ba9ae4">
+   <path clip-rule="nonzero" d="m1173.38,669.69l-26.11,0c-0.87,0 -1.58,-0.71 -1.58,-1.56c0,-0.86 0.71,-1.57 1.58,-1.57l26.11,0c0.87,0 1.58,0.71 1.58,1.57c0,0.85 -0.71,1.56 -1.58,1.56zm0,0" id="svg_70"/>
+  </clipPath>
+  <linearGradient id="24bfcf8d0e" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 52.990723%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 52.89917%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 52.716064%, 100%)"/>
+  </linearGradient>
+  <clipPath id="b277fbb152">
+   <path clip-rule="nonzero" d="m1028,642l33,0l0,4l-33,0l0,-4zm0,0" id="svg_71"/>
+  </clipPath>
+  <clipPath id="557650813">
+   <path clip-rule="nonzero" d="m1058.61,645.27l-28.47,0c-0.87,0 -1.58,-0.71 -1.58,-1.57c0,-0.86 0.71,-1.56 1.58,-1.56l28.47,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.57 -1.58,1.57zm0,0" id="svg_72"/>
+  </clipPath>
+  <linearGradient id="81404a4442" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 55.856323%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 55.764771%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 55.581665%, 100%)"/>
+  </linearGradient>
+  <clipPath id="66eff2c9f9">
+   <path clip-rule="nonzero" d="m1042,650l49,0l0,4l-49,0l0,-4zm0,0" id="svg_73"/>
+  </clipPath>
+  <clipPath id="c5f8ce9227">
+   <path clip-rule="nonzero" d="m1089.23,653.4l-44.82,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l44.82,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" id="svg_74"/>
+  </clipPath>
+  <linearGradient id="31512705d7" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 54.902649%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 54.80957%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 54.626465%, 100%)"/>
+  </linearGradient>
+  <clipPath id="a29b4cdc5b">
+   <path clip-rule="nonzero" d="m1068,642l72,0l0,4l-72,0l0,-4zm0,0" id="svg_75"/>
+  </clipPath>
+  <clipPath id="94aacf758c">
+   <path clip-rule="nonzero" d="m1137.61,645.27l-67.75,0c-0.87,0 -1.58,-0.71 -1.58,-1.57c0,-0.86 0.71,-1.56 1.58,-1.56l67.75,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.57 -1.58,1.57zm0,0" id="svg_76"/>
+  </clipPath>
+  <linearGradient id="7e4910e0e8" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 55.856323%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 55.764771%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 55.581665%, 100%)"/>
+  </linearGradient>
+  <clipPath id="0623e7b214">
+   <path clip-rule="nonzero" d="m1125,674l79,0l0,4l-79,0l0,-4zm0,0" id="svg_77"/>
+  </clipPath>
+  <clipPath id="d55c56bf25">
+   <path clip-rule="nonzero" d="m1201.94,677.84l-75.19,0c-0.87,0 -1.59,-0.71 -1.59,-1.57c0,-0.86 0.72,-1.56 1.59,-1.56l75.19,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.57 -1.58,1.57zm0,0" id="svg_78"/>
+  </clipPath>
+  <linearGradient id="9139596541" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 52.035522%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 51.942444%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 51.759338%, 100%)"/>
+  </linearGradient>
+  <clipPath id="c15d59ddd5">
+   <path clip-rule="nonzero" d="m910,494l30,0l0,3l-30,0l0,-3zm0,0" id="svg_79"/>
+  </clipPath>
+  <clipPath id="257edef64c">
+   <path clip-rule="nonzero" d="m938.68,496.87l-26.7,0c-0.59,0 -1.07,-0.48 -1.07,-1.07c0,-0.59 0.48,-1.06 1.07,-1.06l26.7,0c0.59,0 1.07,0.48 1.07,1.06c0,0.59 -0.48,1.07 -1.07,1.07zm0,0" id="svg_80"/>
+  </clipPath>
+  <linearGradient id="ecc67dd903" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 73.153687%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 73.091125%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 72.966003%, 100%)"/>
+  </linearGradient>
+  <clipPath id="184c535997">
+   <path clip-rule="nonzero" d="m910,500l19,0l0,3l-19,0l0,-3zm0,0" id="svg_81"/>
+  </clipPath>
+  <clipPath id="b8f5bf833a">
+   <path clip-rule="nonzero" d="m927.62,502.4l-15.64,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l15.64,0c0.59,0 1.07,0.48 1.07,1.06c0,0.59 -0.48,1.06 -1.07,1.06zm0,0" id="svg_82"/>
+  </clipPath>
+  <linearGradient id="c2dade1128" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 72.503662%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 72.441101%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 72.317505%, 100%)"/>
+  </linearGradient>
+  <clipPath id="52aba33166">
+   <path clip-rule="nonzero" d="m928,511l24,0l0,3l-24,0l0,-3zm0,0" id="svg_83"/>
+  </clipPath>
+  <clipPath id="e447a7f60c">
+   <path clip-rule="nonzero" d="m950.67,513.49l-21.46,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l21.46,0c0.59,0 1.07,0.48 1.07,1.06c0,0.58 -0.48,1.06 -1.07,1.06zm0,0" id="svg_84"/>
+  </clipPath>
+  <linearGradient id="2a15e2ce06" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 71.202087%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 71.139526%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 71.01593%, 100%)"/>
+  </linearGradient>
+  <clipPath id="d522f1eea2">
+   <path clip-rule="nonzero" d="m918,527l12,0l0,4l-12,0l0,-4zm0,0" id="svg_85"/>
+  </clipPath>
+  <clipPath id="c857cd377b">
+   <path clip-rule="nonzero" d="m928.73,530.12l-9.05,0c-0.59,0 -1.07,-0.48 -1.07,-1.07c0,-0.59 0.48,-1.05 1.07,-1.05l9.05,0c0.59,0 1.07,0.48 1.07,1.05c0,0.59 -0.48,1.07 -1.07,1.07zm0,0" id="svg_86"/>
+  </clipPath>
+  <linearGradient id="05b600cf3e" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 69.252014%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 69.189453%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 69.064331%, 100%)"/>
+  </linearGradient>
+  <clipPath id="ae5b528cfd">
+   <path clip-rule="nonzero" d="m936,544l18,0l0,3l-18,0l0,-3zm0,0" id="svg_87"/>
+  </clipPath>
+  <clipPath id="7c91fa9e83">
+   <path clip-rule="nonzero" d="m952.73,546.74l-15.6,0c-0.59,0 -1.08,-0.48 -1.08,-1.06c0,-0.59 0.49,-1.06 1.08,-1.06l15.6,0c0.59,0 1.07,0.48 1.07,1.06c0,0.59 -0.48,1.06 -1.07,1.06zm0,0" id="svg_88"/>
+  </clipPath>
+  <linearGradient id="aa8f5d1aab" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 67.300415%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 67.237854%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 67.114258%, 100%)"/>
+  </linearGradient>
+  <clipPath id="d7c9990377">
+   <path clip-rule="nonzero" d="m944,550l20,0l0,3l-20,0l0,-3zm0,0" id="svg_89"/>
+  </clipPath>
+  <clipPath id="0dd99ded96">
+   <path clip-rule="nonzero" d="m962.4,552.29l-16.58,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.07 1.07,-1.07l16.58,0c0.59,0 1.07,0.48 1.07,1.07c0.01,0.59 -0.47,1.06 -1.07,1.06zm0,0" id="svg_90"/>
+  </clipPath>
+  <linearGradient id="576d9ce96f" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 66.650391%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 66.58783%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 66.462708%, 100%)"/>
+  </linearGradient>
+  <clipPath id="4f7aee2e7b">
+   <path clip-rule="nonzero" d="m935,561l20,0l0,3l-20,0l0,-3zm0,0" id="svg_91"/>
+  </clipPath>
+  <clipPath id="b00a02b341">
+   <path clip-rule="nonzero" d="m953.39,563.38l-16.57,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.07 1.07,-1.07l16.57,0c0.59,0 1.07,0.48 1.07,1.07c0,0.58 -0.48,1.06 -1.07,1.06zm0,0" id="svg_92"/>
+  </clipPath>
+  <linearGradient id="bb945db9c7" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 65.348816%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 65.286255%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 65.161133%, 100%)"/>
+  </linearGradient>
+  <clipPath id="Infinity">
+   <path clip-rule="nonzero" d="m936,577l15,0l0,4l-15,0l0,-4zm0,0" id="svg_93"/>
+  </clipPath>
+  <clipPath id="fd232bc8db">
+   <path clip-rule="nonzero" d="m949.36,580l-12.14,0c-0.59,0 -1.08,-0.48 -1.08,-1.06c0,-0.59 0.49,-1.06 1.08,-1.06l12.14,0c0.59,0 1.07,0.48 1.07,1.06c0.01,0.58 -0.47,1.06 -1.07,1.06zm0,0" id="svg_94"/>
+  </clipPath>
+  <linearGradient id="81b7baa831" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 63.397217%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 63.334656%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 63.21106%, 100%)"/>
+  </linearGradient>
+  <clipPath id="c025487627">
+   <path clip-rule="nonzero" d="m928,583l15,0l0,3l-15,0l0,-3zm0,0" id="svg_95"/>
+  </clipPath>
+  <clipPath id="8b94b644ef">
+   <path clip-rule="nonzero" d="m941.24,585.55l-12.14,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l12.14,0c0.59,0 1.07,0.48 1.07,1.06c0,0.58 -0.48,1.06 -1.07,1.06zm0,0" id="svg_96"/>
+  </clipPath>
+  <linearGradient id="3f27b62651" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 62.747192%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 62.684631%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 62.559509%, 100%)"/>
+  </linearGradient>
+  <clipPath id="ce75ee7585">
+   <path clip-rule="nonzero" d="m928,588l15,0l0,4l-15,0l0,-4zm0,0" id="svg_97"/>
+  </clipPath>
+  <clipPath id="356686abe4">
+   <path clip-rule="nonzero" d="m941.24,591.08l-12.14,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l12.14,0c0.59,0 1.07,0.48 1.07,1.06c0,0.59 -0.48,1.06 -1.07,1.06zm0,0" id="svg_98"/>
+  </clipPath>
+  <linearGradient id="dadb6c80f6" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 62.097168%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 62.034607%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 61.911011%, 100%)"/>
+  </linearGradient>
+  <clipPath id="2d03aecbad">
+   <path clip-rule="nonzero" d="m946,588l24,0l0,4l-24,0l0,-4zm0,0" id="svg_99"/>
+  </clipPath>
+  <clipPath id="0d688de087">
+   <path clip-rule="nonzero" d="m968.46,591.08l-20.89,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l20.89,0c0.59,0 1.07,0.48 1.07,1.06c0,0.59 -0.48,1.06 -1.07,1.06zm0,0" id="svg_100"/>
+  </clipPath>
+  <linearGradient id="b43f32a4ac" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 62.097168%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 62.034607%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 61.911011%, 100%)"/>
+  </linearGradient>
+  <clipPath id="4641c28049">
+   <path clip-rule="nonzero" d="m928,572l24,0l0,3l-24,0l0,-3zm0,0" id="svg_101"/>
+  </clipPath>
+  <clipPath id="20a4bc24ac">
+   <path clip-rule="nonzero" d="m949.97,574.46l-20.87,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.6 0.48,-1.06 1.07,-1.06l20.87,0c0.59,0 1.07,0.48 1.07,1.06c0,0.59 -0.48,1.06 -1.07,1.06zm0,0" id="svg_102"/>
+  </clipPath>
+  <linearGradient id="d4e891ad7f" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 64.048767%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 63.986206%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 63.861084%, 100%)"/>
+  </linearGradient>
+  <clipPath id="f593b205f7">
+   <path clip-rule="nonzero" d="m955,572l24,0l0,3l-24,0l0,-3zm0,0" id="svg_103"/>
+  </clipPath>
+  <clipPath id="e163b5e201">
+   <path clip-rule="nonzero" d="m977.02,574.46l-20.88,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.6 0.48,-1.06 1.07,-1.06l20.88,0c0.59,0 1.07,0.48 1.07,1.06c0,0.59 -0.48,1.06 -1.07,1.06zm0,0" id="svg_104"/>
+  </clipPath>
+  <linearGradient id="8aa8216bf6" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 64.048767%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 63.986206%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 63.861084%, 100%)"/>
+  </linearGradient>
+  <clipPath id="88767648a4">
+   <path clip-rule="nonzero" d="m928,566l13,0l0,3l-13,0l0,-3zm0,0" id="svg_105"/>
+  </clipPath>
+  <clipPath id="59b860e78e">
+   <path clip-rule="nonzero" d="m939.22,568.91l-10.04,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l10.04,0c0.59,0 1.07,0.48 1.07,1.06c0.01,0.59 -0.47,1.06 -1.07,1.06zm0,0" id="svg_106"/>
+  </clipPath>
+  <linearGradient id="06559d8a24" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 64.698792%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 64.63623%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 64.512634%, 100%)"/>
+  </linearGradient>
+  <clipPath id="43225fe286">
+   <path clip-rule="nonzero" d="m944,555l26,0l0,3l-26,0l0,-3zm0,0" id="svg_107"/>
+  </clipPath>
+  <clipPath id="840b44535a">
+   <path clip-rule="nonzero" d="m968.5,557.83l-22.97,0c-0.6,0 -1.08,-0.48 -1.08,-1.06c0,-0.59 0.48,-1.06 1.08,-1.06l22.97,0c0.59,0 1.07,0.48 1.07,1.06c0.01,0.58 -0.48,1.06 -1.07,1.06zm0,0" id="svg_108"/>
+  </clipPath>
+  <linearGradient id="62a4cf8b87" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 65.99884%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 65.936279%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 65.812683%, 100%)"/>
+  </linearGradient>
+  <clipPath id="6a8f0ff349">
+   <path clip-rule="nonzero" d="m973,555l8,0l0,3l-8,0l0,-3zm0,0" id="svg_109"/>
+  </clipPath>
+  <clipPath id="ff0302ba47">
+   <path clip-rule="nonzero" d="m979.24,557.83l-4.88,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l4.88,0c0.59,0 1.07,0.48 1.07,1.06c0,0.58 -0.48,1.06 -1.07,1.06zm0,0" id="svg_110"/>
+  </clipPath>
+  <linearGradient id="b028c69e08" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 65.99884%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 65.936279%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 65.812683%, 100%)"/>
+  </linearGradient>
+  <clipPath id="0a43129ad9">
+   <path clip-rule="nonzero" d="m919,505l19,0l0,3l-19,0l0,-3zm0,0" id="svg_111"/>
+  </clipPath>
+  <clipPath id="dd5629816e">
+   <path clip-rule="nonzero" d="m935.95,507.95l-15.64,0c-0.59,0 -1.07,-0.49 -1.07,-1.06c0,-0.6 0.48,-1.07 1.07,-1.07l15.64,0c0.59,0 1.07,0.48 1.07,1.07c0,0.57 -0.48,1.06 -1.07,1.06zm0,0" id="svg_112"/>
+  </clipPath>
+  <linearGradient id="9a38160e9f" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 71.853638%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 71.791077%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 71.665955%, 100%)"/>
+  </linearGradient>
+  <clipPath id="4f23e4e491">
+   <path clip-rule="nonzero" d="m928,516l19,0l0,4l-19,0l0,-4zm0,0" id="svg_113"/>
+  </clipPath>
+  <clipPath id="6bc7330bd1">
+   <path clip-rule="nonzero" d="m945.41,519.04l-15.64,0c-0.59,0 -1.07,-0.49 -1.07,-1.06c0,-0.59 0.48,-1.07 1.07,-1.07l15.64,0c0.59,0 1.07,0.48 1.07,1.07c0.01,0.57 -0.47,1.06 -1.07,1.06zm0,0" id="svg_114"/>
+  </clipPath>
+  <linearGradient id="39b9f4e481" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 70.552063%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 70.489502%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 70.36438%, 100%)"/>
+  </linearGradient>
+  <clipPath id="3246ca32e1">
+   <path clip-rule="nonzero" d="m910,655l30,0l0,3l-30,0l0,-3zm0,0" id="svg_115"/>
+  </clipPath>
+  <clipPath id="655e86bbc6">
+   <path clip-rule="nonzero" d="m938.68,657.64l-26.7,0c-0.59,0 -1.07,-0.48 -1.07,-1.07c0,-0.59 0.48,-1.06 1.07,-1.06l26.7,0c0.59,0 1.07,0.48 1.07,1.06c0,0.59 -0.48,1.07 -1.07,1.07zm0,0" id="svg_116"/>
+  </clipPath>
+  <linearGradient id="341b665a8e" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 54.28772%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 54.225159%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 54.100037%, 100%)"/>
+  </linearGradient>
+  <clipPath id="c3fb0f0062">
+   <path clip-rule="nonzero" d="m910,661l19,0l0,3l-19,0l0,-3zm0,0" id="svg_117"/>
+  </clipPath>
+  <clipPath id="85f9e5ef81">
+   <path clip-rule="nonzero" d="m927.62,663.18l-15.64,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l15.64,0c0.59,0 1.07,0.48 1.07,1.06c0,0.58 -0.48,1.06 -1.07,1.06zm0,0" id="svg_118"/>
+  </clipPath>
+  <linearGradient id="c3f2b33459" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 53.637695%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 53.575134%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 53.450012%, 100%)"/>
+  </linearGradient>
+  <clipPath id="1b303b9673">
+   <path clip-rule="nonzero" d="m928,672l24,0l0,3l-24,0l0,-3zm0,0" id="svg_119"/>
+  </clipPath>
+  <clipPath id="ace988de6f">
+   <path clip-rule="nonzero" d="m950.67,674.26l-21.46,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l21.46,0c0.59,0 1.07,0.48 1.07,1.06c0,0.59 -0.48,1.06 -1.07,1.06zm0,0" id="svg_120"/>
+  </clipPath>
+  <linearGradient id="409aebe7c7" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 52.336121%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 52.27356%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 52.149963%, 100%)"/>
+  </linearGradient>
+  <clipPath id="729ebb37f7">
+   <path clip-rule="nonzero" d="m919,666l19,0l0,3l-19,0l0,-3zm0,0" id="svg_121"/>
+  </clipPath>
+  <clipPath id="Infinity">
+   <path clip-rule="nonzero" d="m935.95,668.73l-15.64,0c-0.59,0 -1.07,-0.48 -1.07,-1.07c0,-0.59 0.48,-1.05 1.07,-1.05l15.64,0c0.59,0 1.07,0.48 1.07,1.05c0,0.59 -0.48,1.07 -1.07,1.07zm0,0" id="svg_122"/>
+  </clipPath>
+  <linearGradient id="7d676689b4" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 52.986145%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 52.923584%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 52.798462%, 100%)"/>
+  </linearGradient>
+  <clipPath id="9847092fc2">
+   <path clip-rule="nonzero" d="m928,677l19,0l0,3l-19,0l0,-3zm0,0" id="svg_123"/>
+  </clipPath>
+  <clipPath id="810e4d9203">
+   <path clip-rule="nonzero" d="m945.41,679.8l-15.64,0c-0.59,0 -1.07,-0.48 -1.07,-1.05c0,-0.59 0.48,-1.07 1.07,-1.07l15.64,0c0.59,0 1.07,0.48 1.07,1.07c0.01,0.57 -0.47,1.05 -1.07,1.05zm0,0" id="svg_124"/>
+  </clipPath>
+  <linearGradient id="e40c353dfd" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 51.686096%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 51.623535%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 51.498413%, 100%)"/>
+  </linearGradient>
+  <clipPath id="d5a8aa29aa">
+   <path clip-rule="nonzero" d="m918,533l22,0l0,3l-22,0l0,-3zm0,0" id="svg_125"/>
+  </clipPath>
+  <clipPath id="1e60ef602a">
+   <path clip-rule="nonzero" d="m938.86,535.66l-19.38,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l19.38,0c0.59,0 1.07,0.48 1.07,1.06c0,0.58 -0.48,1.06 -1.07,1.06zm0,0" id="svg_126"/>
+  </clipPath>
+  <linearGradient id="821a5cc39d" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 68.600464%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 68.537903%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 68.414307%, 100%)"/>
+  </linearGradient>
+  <clipPath id="5cf4db729d">
+   <path clip-rule="nonzero" d="m928,539l33,0l0,3l-33,0l0,-3zm0,0" id="svg_127"/>
+  </clipPath>
+  <clipPath id="bafaa0fc04">
+   <path clip-rule="nonzero" d="m959.7,541.21l-30.5,0c-0.59,0 -1.07,-0.48 -1.07,-1.07c0,-0.59 0.48,-1.05 1.07,-1.05l30.5,0c0.59,0 1.07,0.48 1.07,1.05c0.01,0.59 -0.47,1.07 -1.07,1.07zm0,0" id="svg_128"/>
+  </clipPath>
+  <linearGradient id="b6a9bd83ef" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 67.950439%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 67.887878%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 67.762756%, 100%)"/>
+  </linearGradient>
+  <clipPath id="e9f76731f2">
+   <path clip-rule="nonzero" d="m936,605l18,0l0,3l-18,0l0,-3zm0,0" id="svg_129"/>
+  </clipPath>
+  <clipPath id="8880c2bff0">
+   <path clip-rule="nonzero" d="m952.73,607.8l-15.6,0c-0.59,0 -1.08,-0.48 -1.08,-1.06c0,-0.59 0.49,-1.06 1.08,-1.06l15.6,0c0.59,0 1.07,0.48 1.07,1.06c0,0.59 -0.48,1.06 -1.07,1.06zm0,0" id="svg_130"/>
+  </clipPath>
+  <linearGradient id="45adfa8b83" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 60.136414%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 60.073853%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 59.94873%, 100%)"/>
+  </linearGradient>
+  <clipPath id="41bea60560">
+   <path clip-rule="nonzero" d="m944,611l20,0l0,3l-20,0l0,-3zm0,0" id="svg_131"/>
+  </clipPath>
+  <clipPath id="94e7e16bb9">
+   <path clip-rule="nonzero" d="m962.4,613.34l-16.58,0c-0.59,0 -1.07,-0.48 -1.07,-1.05c0,-0.6 0.48,-1.07 1.07,-1.07l16.58,0c0.59,0 1.07,0.48 1.07,1.07c0.01,0.59 -0.47,1.05 -1.07,1.05zm0,0" id="svg_132"/>
+  </clipPath>
+  <linearGradient id="a4f837869f" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 59.484863%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 59.422302%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 59.298706%, 100%)"/>
+  </linearGradient>
+  <clipPath id="d03e7a5fac">
+   <path clip-rule="nonzero" d="m935,622l20,0l0,3l-20,0l0,-3zm0,0" id="svg_133"/>
+  </clipPath>
+  <clipPath id="8f6f959d6e">
+   <path clip-rule="nonzero" d="m953.39,624.43l-16.57,0c-0.59,0 -1.07,-0.48 -1.07,-1.05c0,-0.6 0.48,-1.07 1.07,-1.07l16.57,0c0.59,0 1.07,0.48 1.07,1.07c0,0.57 -0.48,1.05 -1.07,1.05zm0,0" id="svg_134"/>
+  </clipPath>
+  <linearGradient id="6b163109e2" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 58.183289%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 58.120728%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 57.997131%, 100%)"/>
+  </linearGradient>
+  <clipPath id="65a3655c94">
+   <path clip-rule="nonzero" d="m923,638l15,0l0,4l-15,0l0,-4zm0,0" id="svg_135"/>
+  </clipPath>
+  <clipPath id="c2a3db4dfd">
+   <path clip-rule="nonzero" d="m936.66,641.06l-12.14,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l12.14,0c0.59,0 1.07,0.48 1.07,1.06c0,0.58 -0.48,1.06 -1.07,1.06zm0,0" id="svg_136"/>
+  </clipPath>
+  <linearGradient id="14a98892df" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 56.233215%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 56.170654%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 56.045532%, 100%)"/>
+  </linearGradient>
+  <clipPath id="0c79e87184">
+   <path clip-rule="nonzero" d="m915,644l15,0l0,3l-15,0l0,-3zm0,0" id="svg_137"/>
+  </clipPath>
+  <clipPath id="70a30f64f2">
+   <path clip-rule="nonzero" d="m928.53,646.61l-12.14,0c-0.59,0 -1.07,-0.48 -1.07,-1.07c0,-0.59 0.48,-1.06 1.07,-1.06l12.14,0c0.59,0 1.07,0.48 1.07,1.06c0.01,0.59 -0.48,1.07 -1.07,1.07zm0,0" id="svg_138"/>
+  </clipPath>
+  <linearGradient id="d281c012bd" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 55.581665%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 55.519104%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 55.395508%, 100%)"/>
+  </linearGradient>
+  <clipPath id="7553ced05e">
+   <path clip-rule="nonzero" d="m915,650l15,0l0,3l-15,0l0,-3zm0,0" id="svg_139"/>
+  </clipPath>
+  <clipPath id="505877a06b">
+   <path clip-rule="nonzero" d="m928.53,652.14l-12.14,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l12.14,0c0.59,0 1.07,0.48 1.07,1.06c0.01,0.59 -0.48,1.06 -1.07,1.06zm0,0" id="svg_140"/>
+  </clipPath>
+  <linearGradient id="2e8e85ba7c" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 54.933167%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 54.870605%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 54.745483%, 100%)"/>
+  </linearGradient>
+  <clipPath id="8f5dffb088">
+   <path clip-rule="nonzero" d="m933,650l24,0l0,3l-24,0l0,-3zm0,0" id="svg_141"/>
+  </clipPath>
+  <clipPath id="8bc89f850c">
+   <path clip-rule="nonzero" d="m955.75,652.14l-20.89,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l20.89,0c0.59,0 1.07,0.48 1.07,1.06c0.01,0.59 -0.47,1.06 -1.07,1.06zm0,0" id="svg_142"/>
+  </clipPath>
+  <linearGradient id="6c8b5b9a93" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 54.933167%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 54.870605%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 54.745483%, 100%)"/>
+  </linearGradient>
+  <clipPath id="9ef1e3f768">
+   <path clip-rule="nonzero" d="m915,633l24,0l0,3l-24,0l0,-3zm0,0" id="svg_143"/>
+  </clipPath>
+  <clipPath id="4df5c4c43e">
+   <path clip-rule="nonzero" d="m937.26,635.52l-20.87,0c-0.59,0 -1.07,-0.48 -1.07,-1.07c0,-0.59 0.48,-1.06 1.07,-1.06l20.87,0c0.59,0 1.07,0.49 1.07,1.06c0.01,0.59 -0.47,1.07 -1.07,1.07zm0,0" id="svg_144"/>
+  </clipPath>
+  <linearGradient id="074ae226c2" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 56.88324%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 56.820679%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 56.697083%, 100%)"/>
+  </linearGradient>
+  <clipPath id="d01e29affa">
+   <path clip-rule="nonzero" d="m942,633l24,0l0,3l-24,0l0,-3zm0,0" id="svg_145"/>
+  </clipPath>
+  <clipPath id="4daf8b011d">
+   <path clip-rule="nonzero" d="m964.3,635.52l-20.87,0c-0.59,0 -1.07,-0.48 -1.07,-1.07c0,-0.59 0.48,-1.06 1.07,-1.06l20.87,0c0.59,0 1.08,0.49 1.08,1.06c0.01,0.59 -0.47,1.07 -1.08,1.07zm0,0" id="svg_146"/>
+  </clipPath>
+  <linearGradient id="d80fa78395" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 56.88324%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 56.820679%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 56.697083%, 100%)"/>
+  </linearGradient>
+  <clipPath id="9658b075b7">
+   <path clip-rule="nonzero" d="m928,627l13,0l0,3l-13,0l0,-3zm0,0" id="svg_147"/>
+  </clipPath>
+  <clipPath id="4d29884333">
+   <path clip-rule="nonzero" d="m939.22,629.97l-10.04,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l10.04,0c0.59,0 1.07,0.48 1.07,1.06c0.01,0.59 -0.47,1.06 -1.07,1.06zm0,0" id="svg_148"/>
+  </clipPath>
+  <linearGradient id="7ef4012280" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 57.53479%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 57.472229%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 57.347107%, 100%)"/>
+  </linearGradient>
+  <clipPath id="fedb9a8306">
+   <path clip-rule="nonzero" d="m944,616l26,0l0,3l-26,0l0,-3zm0,0" id="svg_149"/>
+  </clipPath>
+  <clipPath id="4934f2b2b0">
+   <path clip-rule="nonzero" d="m968.5,618.89l-22.97,0c-0.6,0 -1.08,-0.48 -1.08,-1.06c0,-0.59 0.48,-1.06 1.08,-1.06l22.97,0c0.59,0 1.07,0.48 1.07,1.06c0.01,0.58 -0.48,1.06 -1.07,1.06zm0,0" id="svg_150"/>
+  </clipPath>
+  <linearGradient id="f1e36555be" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 58.834839%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 58.772278%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 58.647156%, 100%)"/>
+  </linearGradient>
+  <clipPath id="b1ab6af421">
+   <path clip-rule="nonzero" d="m973,616l8,0l0,3l-8,0l0,-3zm0,0" id="svg_151"/>
+  </clipPath>
+  <clipPath id="e4b196e3fa">
+   <path clip-rule="nonzero" d="m979.24,618.89l-4.88,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l4.88,0c0.59,0 1.07,0.48 1.07,1.06c0,0.58 -0.48,1.06 -1.07,1.06zm0,0" id="svg_152"/>
+  </clipPath>
+  <linearGradient id="a0752efe6d" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 58.834839%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 58.772278%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 58.647156%, 100%)"/>
+  </linearGradient>
+  <clipPath id="3ccf4a1fb6">
+   <path clip-rule="nonzero" d="m918,594l22,0l0,3l-22,0l0,-3zm0,0" id="svg_153"/>
+  </clipPath>
+  <clipPath id="152e475dc3">
+   <path clip-rule="nonzero" d="m938.86,596.72l-19.38,0c-0.59,0 -1.07,-0.48 -1.07,-1.06c0,-0.59 0.48,-1.06 1.07,-1.06l19.38,0c0.59,0 1.07,0.48 1.07,1.06c0,0.58 -0.48,1.06 -1.07,1.06zm0,0" id="svg_154"/>
+  </clipPath>
+  <linearGradient id="61d5971cd4" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 61.436462%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 61.373901%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 61.248779%, 100%)"/>
+  </linearGradient>
+  <clipPath id="8e63fadb44">
+   <path clip-rule="nonzero" d="m928,600l33,0l0,3l-33,0l0,-3zm0,0" id="svg_155"/>
+  </clipPath>
+  <clipPath id="02dc7efb47">
+   <path clip-rule="nonzero" d="m959.7,602.27l-30.5,0c-0.59,0 -1.07,-0.48 -1.07,-1.07c0,-0.59 0.48,-1.06 1.07,-1.06l30.5,0c0.59,0 1.07,0.48 1.07,1.06c0.01,0.59 -0.47,1.07 -1.07,1.07zm0,0" id="svg_156"/>
+  </clipPath>
+  <linearGradient id="a34a429b0a" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 60.784912%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 60.722351%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 60.598755%, 100%)"/>
+  </linearGradient>
+  <clipPath id="f3d9c7f226">
+   <path clip-rule="nonzero" d="m928,522l29,0l0,3l-29,0l0,-3zm0,0" id="svg_157"/>
+  </clipPath>
+  <clipPath id="b1dc0048df">
+   <path clip-rule="nonzero" d="m955.41,524.57l-26.69,0c-0.33,0 -0.6,-0.48 -0.6,-1.06c0,-0.59 0.27,-1.06 0.6,-1.06l26.69,0c0.32,0 0.6,0.48 0.6,1.06c0,0.59 -0.28,1.06 -0.6,1.06zm0,0" id="svg_158"/>
+  </clipPath>
+  <linearGradient id="340d389ef5" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0" stop-color="rgb(0%, 69.902039%, 100%)"/>
+   <stop offset="0.5" stop-color="rgb(0%, 69.839478%, 100%)"/>
+   <stop offset="1" stop-color="rgb(0%, 69.715881%, 100%)"/>
+  </linearGradient>
+  <clipPath id="f99d184e9f">
+   <path clip-rule="nonzero" d="m1146.98,56.89l166.5,0l0,166.5l-166.5,0l0,-166.5zm0,0" id="svg_159"/>
+  </clipPath>
+  <clipPath id="3b0a5424cf">
+   <path clip-rule="nonzero" d="m51.69,189l152.25,0l0,172.77l-152.25,0l0,-172.77zm0,0" id="svg_160"/>
+  </clipPath>
+  <clipPath id="c12d98debe">
+   <path clip-rule="nonzero" d="m65,147.27l30,0l0,29.73l-30,0l0,-29.73zm0,0" id="svg_161"/>
+  </clipPath>
+  <clipPath id="f9d82532e0">
+   <path clip-rule="nonzero" d="m98,147.27l28,0l0,29.73l-28,0l0,-29.73zm0,0" id="svg_162"/>
+  </clipPath>
+  <clipPath id="e4adb3c083">
+   <path clip-rule="nonzero" d="m129,147.27l33,0l0,29.73l-33,0l0,-29.73zm0,0" id="svg_163"/>
+  </clipPath>
+  <clipPath id="3f0d90f7c2">
+   <path clip-rule="nonzero" d="m166,147.27l25,0l0,29.73l-25,0l0,-29.73zm0,0" id="svg_164"/>
+  </clipPath>
+  <clipPath id="b3ac38d0ec">
+   <path clip-rule="nonzero" d="m51.69,476l156,0l0,176.94l-156,0l0,-176.94zm0,0" id="svg_165"/>
+  </clipPath>
+  <clipPath id="03394433c2">
+   <path clip-rule="nonzero" d="m88,433.19l25,0l0,29.81l-25,0l0,-29.81zm0,0" id="svg_166"/>
+  </clipPath>
+  <clipPath id="7f8a5f9e15">
+   <path clip-rule="nonzero" d="m116,433.19l25,0l0,30.81l-25,0l0,-30.81zm0,0" id="svg_167"/>
+  </clipPath>
+  <clipPath id="25ffc70152">
+   <path clip-rule="nonzero" d="m145,433.19l24,0l0,30.81l-24,0l0,-30.81zm0,0" id="svg_168"/>
+  </clipPath>
+  <clipPath id="815cfa3fd6">
+   <path clip-rule="nonzero" d="m1133.75,268l193.5,0l0,172l-193.5,0l0,-172zm0,0" id="svg_169"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g clip-path="url(#b6afc1a7d6)" id="svg_170">
+   <path d="m1087.22,672.74c0,8.55 -6.92,15.46 -15.46,15.46l-782.29,0c-8.54,0 -15.47,-6.91 -15.47,-15.46l0,-531.94c0,-8.53 6.93,-15.46 15.47,-15.46l782.29,0c8.54,0 15.46,6.93 15.46,15.46l0,531.94" fill="#1b181d" fill-rule="nonzero" id="svg_171"/>
+  </g>
+  <path d="m1054.18,647.8c0,2.79 -2.26,5.05 -5.05,5.05l-737.03,0c-2.79,0 -5.06,-2.26 -5.06,-5.05l0,-482.05c0,-2.8 2.27,-5.06 5.06,-5.06l737.03,0c2.79,0 5.05,2.26 5.05,5.06l0,482.05" fill="#183651" fill-rule="nonzero" id="svg_172"/>
+  <path d="m579.74,754.5l201.74,0l0,-66.3l-201.74,0l0,66.3zm0,0" fill="#918f8f" fill-rule="nonzero" id="svg_173"/>
+  <g clip-path="url(#689b76c50e)" id="svg_174">
+   <path d="m812.22,789.17l-263.22,0l0,-34.67l263.22,0l0,34.67" fill="#6e6b6c" fill-rule="nonzero" id="svg_175"/>
+  </g>
+  <path d="m359.93,637.55l641.37,0l0,-433.05l-641.37,0l0,433.05zm0,0" fill="#15151e" fill-rule="nonzero" id="svg_176"/>
+  <path d="m399.08,637.55l2.17,0l0,-433.05l-2.17,0l0,433.05zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_177"/>
+  <path d="m359.93,204.31l641.37,0l0,-35.72l-641.37,0l0,35.72zm0,0" fill="#333650" fill-rule="nonzero" id="svg_178"/>
+  <path d="m924.98,186.45c0,6.69 -5.43,12.12 -12.13,12.12c-6.71,0 -12.14,-5.43 -12.14,-12.12c0,-6.7 5.43,-12.13 12.14,-12.13c6.7,0 12.13,5.43 12.13,12.13" fill="#ed3947" fill-rule="nonzero" id="svg_179"/>
+  <path d="m956.92,186.45c0,6.69 -5.42,12.12 -12.12,12.12c-6.7,0 -12.14,-5.43 -12.14,-12.12c0,-6.7 5.44,-12.13 12.14,-12.13c6.7,0 12.12,5.43 12.12,12.13" fill="#80cc28" fill-rule="nonzero" id="svg_180"/>
+  <path d="m988.58,186.45c0,6.69 -5.43,12.12 -12.12,12.12c-6.7,0 -12.13,-5.43 -12.13,-12.12c0,-6.7 5.43,-12.13 12.13,-12.13c6.69,0 12.12,5.43 12.12,12.13" fill="#ebb72e" fill-rule="nonzero" id="svg_181"/>
+  <path d="m369.4,221.06l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_182"/>
+  <path d="m369.4,242.36l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_183"/>
+  <path d="m369.4,263.65l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_184"/>
+  <path d="m369.4,284.96l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_185"/>
+  <path d="m369.4,306.25l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_186"/>
+  <path d="m369.4,327.55l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_187"/>
+  <path d="m369.4,348.85l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_188"/>
+  <path d="m369.4,370.15l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_189"/>
+  <path d="m369.4,391.45l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_190"/>
+  <path d="m369.4,412.74l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_191"/>
+  <path d="m369.4,434.04l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_192"/>
+  <path d="m369.4,455.34l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_193"/>
+  <path d="m369.4,476.64l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_194"/>
+  <path d="m369.4,497.93l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_195"/>
+  <path d="m369.4,519.24l21.3,0l0,-6.52l-21.3,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_196"/>
+  <path d="m369.4,540.53l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_197"/>
+  <path d="m369.4,561.83l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_198"/>
+  <path d="m369.4,583.13l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_199"/>
+  <path d="m369.4,604.42l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_200"/>
+  <path d="m369.4,625.72l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_201"/>
+  <path d="m413.18,221.06l82.84,0l0,-6.51l-82.84,0l0,6.51zm0,0" fill="#ed3947" fill-rule="nonzero" id="svg_202"/>
+  <path d="m499.3,458.59l82.84,0l0,-6.5l-82.84,0l0,6.5zm0,0" fill="#ed3947" fill-rule="nonzero" id="svg_203"/>
+  <path d="m499.3,434.04l31.37,0l0,-6.5l-31.37,0l0,6.5zm0,0" fill="#ed3947" fill-rule="nonzero" id="svg_204"/>
+  <path d="m413.18,242.36l31.35,0l0,-6.5l-31.35,0l0,6.5zm0,0" fill="#3bbec5" fill-rule="nonzero" id="svg_205"/>
+  <path d="m413.18,263.65l46.45,0l0,-6.5l-46.45,0l0,6.5zm0,0" fill="#3bbec5" fill-rule="nonzero" id="svg_206"/>
+  <path d="m467.62,284.96l93.18,0l0,-6.51l-93.18,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_207"/>
+  <path d="m742.73,284.96l-134.9,0l0,-6.51l134.9,0l0,6.51" fill="#ffffff" fill-rule="nonzero" id="svg_208"/>
+  <path d="m593.63,284.96l-23.95,0l0,-6.51l23.95,0l0,6.51" fill="#ffffff" fill-rule="nonzero" id="svg_209"/>
+  <path d="m488.02,324.29l93.19,0l0,-6.5l-93.19,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_210"/>
+  <path d="m763.15,324.29l-134.9,0l0,-6.5l134.9,0l0,6.5" fill="#ffffff" fill-rule="nonzero" id="svg_211"/>
+  <path d="m614.05,324.29l-23.96,0l0,-6.5l23.96,0l0,6.5" fill="#ffffff" fill-rule="nonzero" id="svg_212"/>
+  <path d="m488.02,303l59.46,0l0,-6.51l-59.46,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_213"/>
+  <path d="m558.14,296.49l0,6.51l23.07,0l0,-6.51l-23.07,0" fill="#ffffff" fill-rule="nonzero" id="svg_214"/>
+  <path d="m675.29,303l-47.04,0l0,-6.51l47.04,0l0,6.51" fill="#ffffff" fill-rule="nonzero" id="svg_215"/>
+  <path d="m614.05,303l-23.96,0l0,-6.51l23.96,0l0,6.51" fill="#ffffff" fill-rule="nonzero" id="svg_216"/>
+  <path d="m564.06,531.52l59.46,0l0,-6.52l-59.46,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_217"/>
+  <path d="m634.18,531.52l23.07,0l0,-6.52l-23.07,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_218"/>
+  <path d="m704.29,531.52l47.03,0l0,-6.52l-47.03,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_219"/>
+  <path d="m666.12,531.52l23.97,0l0,-6.52l-23.97,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_220"/>
+  <path d="m467.62,263.65l15.97,0l0,-6.5l-15.97,0l0,6.5zm0,0" fill="#00adef" fill-rule="nonzero" id="svg_221"/>
+  <path d="m499.9,476.64l31.35,0l0,-6.5l-31.35,0l0,6.5zm0,0" fill="#3bbec5" fill-rule="nonzero" id="svg_222"/>
+  <path d="m499.9,497.93l46.45,0l0,-6.5l-46.45,0l0,6.5zm0,0" fill="#3bbec5" fill-rule="nonzero" id="svg_223"/>
+  <path d="m554.33,497.93l15.97,0l0,-6.5l-15.97,0l0,6.5zm0,0" fill="#00adef" fill-rule="nonzero" id="svg_224"/>
+  <path d="m499.9,590.52l31.35,0l0,-6.5l-31.35,0l0,6.5zm0,0" fill="#3bbec5" fill-rule="nonzero" id="svg_225"/>
+  <path d="m499.9,611.82l46.45,0l0,-6.51l-46.45,0l0,6.51zm0,0" fill="#3bbec5" fill-rule="nonzero" id="svg_226"/>
+  <path d="m554.33,611.82l15.97,0l0,-6.51l-15.97,0l0,6.51zm0,0" fill="#00adef" fill-rule="nonzero" id="svg_227"/>
+  <path d="m413.18,370.15l46.45,0l0,-6.51l-46.45,0l0,6.51zm0,0" fill="#3bbec5" fill-rule="nonzero" id="svg_228"/>
+  <path d="m467.62,370.15l15.97,0l0,-6.51l-15.97,0l0,6.51zm0,0" fill="#00adef" fill-rule="nonzero" id="svg_229"/>
+  <path d="m529.14,221.06l-21.3,0l0,-6.51l21.3,0l0,6.51" fill="#80cc28" fill-rule="nonzero" id="svg_230"/>
+  <path d="m467.62,397.95l90.52,0l0,-6.5l-90.52,0l0,6.5zm0,0" fill="#80cc28" fill-rule="nonzero" id="svg_231"/>
+  <path d="m488.02,348.85l136.69,0l0,-6.51l-136.69,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_232"/>
+  <path d="m737.42,348.85l-104.73,0l0,-6.51l104.73,0l0,6.51" fill="#ffffff" fill-rule="nonzero" id="svg_233"/>
+  <path d="m564.06,555.32l79.28,0l0,-6.5l-79.28,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_234"/>
+  <path d="m651.62,555.32l111.24,0l0,-6.5l-111.24,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_235"/>
+  <path d="m564.06,576.63l34.32,0l0,-6.52l-34.32,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_236"/>
+  <path d="m608.43,576.63l34.91,0l0,-6.52l-34.91,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_237"/>
+  <path d="m742.73,576.63l20.13,0l0,-6.52l-20.13,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_238"/>
+  <path d="m651.62,576.63l83.42,0l0,-6.52l-83.42,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_239"/>
+  <path d="m1071.81,688.2c0,0 0.01,0 0.02,0c-0.01,0 -0.02,0 -0.02,0m0.05,0c0.01,0 0.02,0 0.02,0c0,0 -0.01,0 -0.02,0m0.05,0c0.01,0 0.02,0 0.03,0c-0.01,0 -0.02,0 -0.03,0m0.05,0c0.01,0 0.02,0 0.03,0c-0.01,0 -0.02,0 -0.03,0m0.05,0c0.01,0 0.02,0 0.04,0c-0.02,0 -0.03,0 -0.04,0m0.05,0c0.01,0 0.03,0 0.04,0c-0.01,0 -0.03,0 -0.04,0m0.05,0c0.01,0 0.03,0 0.04,0c-0.01,0 -0.03,0 -0.04,0m0.05,0c0.01,0 0.03,0 0.04,0c-0.01,0 -0.03,0 -0.04,0m0.05,0c4.35,-0.13 8.26,-2.06 10.99,-5.06c-2.73,3 -6.64,4.93 -10.99,5.06m-798.21,-547.4c0,-4.27 1.73,-8.13 4.53,-10.93c-2.8,2.8 -4.53,6.67 -4.53,10.93" fill="#ffffff" fill-rule="nonzero" id="svg_240"/>
+  <path d="m1071.76,688.2l-782.29,0c-8.54,0 -15.47,-6.91 -15.47,-15.46l0,-531.94c0,-4.26 1.73,-8.13 4.54,-10.93l44.84,30.82l-11.28,0c-2.79,0 -5.06,2.26 -5.06,5.06l0,482.05c0,2.79 2.27,5.05 5.06,5.05l727.53,0l43.76,30.08c-0.06,0.07 -0.13,0.14 -0.19,0.21c-2.73,3 -6.64,4.93 -10.99,5.06c0,0 0,0 -0.01,0c-0.01,0 -0.03,0 -0.04,0c0,0 0,0 -0.01,0c-0.01,0 -0.03,0 -0.04,0c0,0 -0.01,0 -0.01,0c-0.01,0 -0.03,0 -0.04,0c-0.01,0 -0.01,0 -0.01,0c-0.02,0 -0.03,0 -0.04,0c-0.01,0 -0.01,0 -0.02,0c-0.01,0 -0.02,0 -0.03,0c-0.01,0 -0.01,0 -0.02,0c-0.01,0 -0.02,0 -0.03,0c-0.01,0 -0.02,0 -0.03,0c0,0 -0.01,0 -0.02,0c-0.01,0 -0.02,0 -0.03,0c-0.01,0 -0.02,0 -0.02,0c-0.02,0 -0.03,0 -0.05,0" fill="#352f38" fill-rule="nonzero" id="svg_241"/>
+  <path d="m1039.63,652.85l-727.53,0c-2.79,0 -5.06,-2.26 -5.06,-5.05l0,-482.05c0,-2.8 2.27,-5.06 5.06,-5.06l11.28,0l36.55,25.11l0,18.51l26.93,0l0.27,0.19l-27.2,0l0,433.05l641.37,0l0,-11.03l38.33,26.33" fill="#354b67" fill-rule="nonzero" id="svg_242"/>
+  <path d="m1001.3,637.55l-600.05,0l0,-423.35l31.52,21.66l-19.59,0l0,6.5l29.05,0l25.39,17.44l0,3.85l5.61,0l21.53,14.8l-27.14,0l0,6.51l36.6,0l16.79,11.53l-32.99,0l0,6.51l42.46,0l21.54,14.79l-64,0l0,6.5l73.46,0l26.26,18.05l-99.72,0l0,6.51l109.19,0l404.09,277.67l0,11.03m-446.97,-32.24l0,6.51l15.97,0l0,-6.51l-15.97,0m-54.43,0l0,6.51l46.45,0l0,-6.51l-46.45,0m0,-21.29l0,6.5l31.35,0l0,-6.5l-31.35,0m242.83,-13.91l0,6.52l20.13,0l0,-6.52l-20.13,0m-91.11,0l0,6.52l83.42,0l0,-6.52l-83.42,0m-43.19,0l0,6.52l34.91,0l0,-6.52l-34.91,0m-44.37,0l0,6.52l34.32,0l0,-6.52l-34.32,0m87.56,-21.29l0,6.5l111.24,0l0,-6.5l-111.24,0m-87.56,0l0,6.5l79.28,0l0,-6.5l-79.28,0m140.23,-23.82l0,6.52l47.03,0l0,-6.52l-47.03,0m-38.17,0l0,6.52l23.97,0l0,-6.52l-23.97,0m-31.94,0l0,6.52l23.07,0l0,-6.52l-23.07,0m-70.12,0l0,6.52l59.46,0l0,-6.52l-59.46,0m-9.73,-33.57l0,6.5l15.97,0l0,-6.5l-15.97,0m-54.43,0l0,6.5l46.45,0l0,-6.5l-46.45,0m0,-21.3l0,6.51l31.35,0l0,-6.51l-31.35,0m-0.6,-18.04l0,6.5l82.84,0l0,-6.5l-82.84,0m0,-24.55l0,6.5l31.37,0l0,-6.5l-31.37,0m-31.68,-36.09l0,6.5l90.52,0l0,-6.5l-90.52,0m0,-27.81l0,6.51l15.97,0l0,-6.51l-15.97,0m-54.44,0l0,6.51l46.45,0l0,-6.51l-46.45,0m0,-106.49l0,6.5l46.45,0l0,-6.5l-46.45,0m-14.1,380.4l-39.15,0l0,-433.05l27.2,0l11.95,8.2l0,424.85m-29.68,-18.34l0,6.51l21.3,0l0,-6.51l-21.3,0m0,-21.29l0,6.5l21.3,0l0,-6.5l-21.3,0m0,-21.29l0,6.5l21.3,0l0,-6.5l-21.3,0m0,-21.31l0,6.51l21.3,0l0,-6.51l-21.3,0m0,-21.29l0,6.5l21.3,0l0,-6.5l-21.3,0m0,-21.31l0,6.52l21.3,0l0,-6.52l-21.3,0m0,-21.29l0,6.5l21.3,0l0,-6.5l-21.3,0m0,-21.3l0,6.51l21.3,0l0,-6.51l-21.3,0m0,-21.3l0,6.51l21.3,0l0,-6.51l-21.3,0m0,-21.29l0,6.5l21.3,0l0,-6.5l-21.3,0m0,-21.31l0,6.51l21.3,0l0,-6.51l-21.3,0m0,-21.3l0,6.52l21.3,0l0,-6.52l-21.3,0m0,-21.29l0,6.51l21.3,0l0,-6.51l-21.3,0m0,-21.3l0,6.51l21.3,0l0,-6.51l-21.3,0m0,-21.3l0,6.51l21.3,0l0,-6.51l-21.3,0m0,-21.29l0,6.5l21.3,0l0,-6.5l-21.3,0m0,-21.3l0,6.51l21.3,0l0,-6.51l-21.3,0m0,-21.3l0,6.5l21.3,0l0,-6.5l-21.3,0m0,-21.29l0,6.5l21.3,0l0,-6.5l-21.3,0m0,-21.31l0,6.51l21.3,0l0,-6.51l-21.3,0" fill="#2f2d3b" fill-rule="nonzero" id="svg_243"/>
+  <path d="m401.25,637.55l-2.17,0l0,-424.85l2.17,1.5l0,423.35" fill="#ffffff" fill-rule="nonzero" id="svg_244"/>
+  <path d="m386.86,204.31l-26.93,0l0,-18.51l26.93,18.51" fill="#4e4d67" fill-rule="nonzero" id="svg_245"/>
+  <path d="m369.4,221.06l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_246"/>
+  <path d="m369.4,242.36l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_247"/>
+  <path d="m369.4,263.65l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_248"/>
+  <path d="m369.4,284.96l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_249"/>
+  <path d="m369.4,306.25l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_250"/>
+  <path d="m369.4,327.55l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_251"/>
+  <path d="m369.4,348.85l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_252"/>
+  <path d="m369.4,370.15l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_253"/>
+  <path d="m369.4,391.45l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_254"/>
+  <path d="m369.4,412.74l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_255"/>
+  <path d="m369.4,434.04l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_256"/>
+  <path d="m369.4,455.34l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_257"/>
+  <path d="m369.4,476.64l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_258"/>
+  <path d="m369.4,497.93l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_259"/>
+  <path d="m369.4,519.24l21.3,0l0,-6.52l-21.3,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_260"/>
+  <path d="m369.4,540.53l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_261"/>
+  <path d="m369.4,561.83l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_262"/>
+  <path d="m369.4,583.13l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_263"/>
+  <path d="m369.4,604.42l21.3,0l0,-6.5l-21.3,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_264"/>
+  <path d="m369.4,625.72l21.3,0l0,-6.51l-21.3,0l0,6.51zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_265"/>
+  <path d="m499.3,458.59l82.84,0l0,-6.5l-82.84,0l0,6.5zm0,0" fill="#f05d5e" fill-rule="nonzero" id="svg_266"/>
+  <path d="m499.3,434.04l31.37,0l0,-6.5l-31.37,0l0,6.5zm0,0" fill="#f05d5e" fill-rule="nonzero" id="svg_267"/>
+  <path d="m442.23,242.36l-29.05,0l0,-6.5l19.59,0l9.46,6.5" fill="#62cbcd" fill-rule="nonzero" id="svg_268"/>
+  <path d="m413.18,263.65l46.45,0l0,-6.5l-46.45,0l0,6.5zm0,0" fill="#62cbcd" fill-rule="nonzero" id="svg_269"/>
+  <path d="m504.22,284.96l-36.6,0l0,-6.51l27.14,0l9.46,6.51" fill="#ffffff" fill-rule="nonzero" id="svg_270"/>
+  <path d="m561.48,324.29l-73.46,0l0,-6.5l64,0l9.46,6.5" fill="#ffffff" fill-rule="nonzero" id="svg_271"/>
+  <path d="m530.48,303l-42.46,0l0,-6.51l32.99,0l9.47,6.51" fill="#ffffff" fill-rule="nonzero" id="svg_272"/>
+  <path d="m564.06,531.52l59.46,0l0,-6.52l-59.46,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_273"/>
+  <path d="m634.18,531.52l23.07,0l0,-6.52l-23.07,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_274"/>
+  <path d="m704.29,531.52l47.03,0l0,-6.52l-47.03,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_275"/>
+  <path d="m666.12,531.52l23.97,0l0,-6.52l-23.97,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_276"/>
+  <path d="m473.23,263.65l-5.61,0l0,-3.85l5.61,3.85" fill="#33bdf2" fill-rule="nonzero" id="svg_277"/>
+  <path d="m499.9,476.64l31.35,0l0,-6.5l-31.35,0l0,6.5zm0,0" fill="#62cbcd" fill-rule="nonzero" id="svg_278"/>
+  <path d="m499.9,497.93l46.45,0l0,-6.5l-46.45,0l0,6.5zm0,0" fill="#62cbcd" fill-rule="nonzero" id="svg_279"/>
+  <path d="m554.33,497.93l15.97,0l0,-6.5l-15.97,0l0,6.5zm0,0" fill="#33bdf2" fill-rule="nonzero" id="svg_280"/>
+  <path d="m499.9,590.52l31.35,0l0,-6.5l-31.35,0l0,6.5zm0,0" fill="#62cbcd" fill-rule="nonzero" id="svg_281"/>
+  <path d="m499.9,611.82l46.45,0l0,-6.51l-46.45,0l0,6.51zm0,0" fill="#62cbcd" fill-rule="nonzero" id="svg_282"/>
+  <path d="m554.33,611.82l15.97,0l0,-6.51l-15.97,0l0,6.51zm0,0" fill="#33bdf2" fill-rule="nonzero" id="svg_283"/>
+  <path d="m413.18,370.15l46.45,0l0,-6.51l-46.45,0l0,6.51zm0,0" fill="#62cbcd" fill-rule="nonzero" id="svg_284"/>
+  <path d="m467.62,370.15l15.97,0l0,-6.51l-15.97,0l0,6.51zm0,0" fill="#33bdf2" fill-rule="nonzero" id="svg_285"/>
+  <path d="m467.62,397.95l90.52,0l0,-6.5l-90.52,0l0,6.5zm0,0" fill="#99d64b" fill-rule="nonzero" id="svg_286"/>
+  <path d="m597.21,348.85l-109.19,0l0,-6.51l99.72,0l9.47,6.51" fill="#ffffff" fill-rule="nonzero" id="svg_287"/>
+  <path d="m564.06,555.32l79.28,0l0,-6.5l-79.28,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_288"/>
+  <path d="m651.62,555.32l111.24,0l0,-6.5l-111.24,0l0,6.5zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_289"/>
+  <path d="m564.06,576.63l34.32,0l0,-6.52l-34.32,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_290"/>
+  <path d="m608.43,576.63l34.91,0l0,-6.52l-34.91,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_291"/>
+  <path d="m742.73,576.63l20.13,0l0,-6.52l-20.13,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_292"/>
+  <path d="m651.62,576.63l83.42,0l0,-6.52l-83.42,0l0,6.52zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_293"/>
+  <path d="m875.59,478.11l350.3,0l0,230.83l-350.3,0l0,-230.83zm0,0" fill="#1a1a1a" fill-rule="nonzero" id="svg_294"/>
+  <path d="m1230.1,468.16l-355.62,0c-6.77,0 -12.26,5.5 -12.26,12.26l0,239.82l380.15,0l0,-239.81c0,-6.77 -5.49,-12.27 -12.27,-12.27zm-6.99,219.18l0,15.79l-341.64,0l0,-217.84l341.64,0l0,202.05zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_295"/>
+  <g clip-path="url(#3c713e0ebd)" id="svg_296">
+   <path d="m1243.79,721.66l-382.99,0l0,-241.23c0,-7.55 6.14,-13.68 13.68,-13.68l355.63,0c7.55,0 13.68,6.13 13.68,13.68l0,241.23zm-380.16,-2.83l377.32,0l0,-238.4c0,-5.98 -4.86,-10.84 -10.84,-10.84l-355.63,0c-5.97,0 -10.84,4.86 -10.84,10.84l0,238.4l-0.01,0zm360.91,-14.29l-344.49,0l0,-220.66l344.49,0l0,220.66zm-341.65,-2.83l338.81,0l0,-215l-338.81,0l0,215zm0,0" fill="#004a75" fill-rule="nonzero" id="svg_297"/>
+  </g>
+  <path d="m1301.12,775.14l-58.95,-59.21l-379.75,0l-58.96,59.21l0,6.74c0,0.68 0.56,1.24 1.24,1.24l1.51,0c0.49,2.67 2.82,4.72 5.63,4.72l480.9,0c2.81,0 5.16,-2.04 5.63,-4.72l1.51,0c0.69,0 1.24,-0.56 1.24,-1.24l0,-6.74zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_298"/>
+  <g clip-path="url(#4073ee9b92)" id="svg_299">
+   <path d="m1292.74,789.25l-480.9,0c-3.05,0 -5.7,-1.93 -6.71,-4.71l-0.43,0c-1.47,0 -2.66,-1.2 -2.66,-2.67l0,-7.32l59.78,-60.04l380.93,0l0.42,0.42l59.37,59.63l0,7.32c0,1.47 -1.19,2.66 -2.66,2.66l-0.42,0c-1.01,2.78 -3.66,4.71 -6.72,4.71zm-487.86,-7.55l2.52,0l0.21,1.17c0.37,2.05 2.15,3.54 4.23,3.54l480.9,0c2.08,0 3.87,-1.48 4.24,-3.54l0.21,-1.17l2.52,0l0,-5.97l-58.13,-58.38l-378.58,0l-58.11,58.38l-0.01,5.97zm0,0" fill="#004a75" fill-rule="nonzero" id="svg_300"/>
+  </g>
+  <path d="m850.64,752.04l32.91,0l23.16,-29.83l-28.38,0l-27.69,29.83zm0,0" fill="#ced7db" fill-rule="nonzero" id="svg_301"/>
+  <path d="m1197.87,722.21l23.16,29.83l32.92,0l-27.69,-29.83l-28.39,0zm0,0" fill="#ced7db" fill-rule="nonzero" id="svg_302"/>
+  <path d="m1100.65,758.69c-0.58,-2.2 -3.51,-3.94 -6.56,-3.94l-83.59,0c-3.04,0 -5.98,1.74 -6.57,3.94l-1.59,5.99c-0.64,2.41 1.49,4.41 4.79,4.41l90.33,0c3.29,0 5.42,-2 4.78,-4.41l-1.59,-5.99zm0,0" fill="#ced7db" fill-rule="nonzero" id="svg_303"/>
+  <path d="m893.3,752.04l317.91,0l-21.76,-29.83l-274.31,0l-21.84,29.83zm0,0" fill="#b3c0c7" fill-rule="nonzero" id="svg_304"/>
+  <path d="m803.46,773.72l497.66,0l0,2.83l-497.66,0l0,-2.83zm0,0" fill="#004a75" fill-rule="nonzero" id="svg_305"/>
+  <path d="m1007.3,494.15l2.44,0l0,4.83l-2.44,0l0,-4.83zm0,0" fill="#798884" fill-rule="nonzero" id="svg_306"/>
+  <path d="m1005.69,502.3l4.04,0l0,4.83l-4.04,0l0,-4.83zm0,0" fill="#798884" fill-rule="nonzero" id="svg_307"/>
+  <path d="m1005.69,510.44l4.04,0l0,4.82l-4.04,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_308"/>
+  <path d="m1005.69,518.59l4.04,0l0,4.82l-4.04,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_309"/>
+  <path d="m1005.69,526.72l4.04,0l0,4.83l-4.04,0l0,-4.83zm0,0" fill="#798884" fill-rule="nonzero" id="svg_310"/>
+  <path d="m1005.69,534.87l4.04,0l0,4.83l-4.04,0l0,-4.83zm0,0" fill="#798884" fill-rule="nonzero" id="svg_311"/>
+  <path d="m1005.69,543.01l4.04,0l0,4.82l-4.04,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_312"/>
+  <path d="m1005.69,551.16l4.04,0l0,4.82l-4.04,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_313"/>
+  <path d="m1005.69,559.3l4.04,0l0,4.83l-4.04,0l0,-4.83zm0,0" fill="#798884" fill-rule="nonzero" id="svg_314"/>
+  <path d="m1003.61,567.44l6.13,0l0,4.83l-6.13,0l0,-4.83zm0,0" fill="#798884" fill-rule="nonzero" id="svg_315"/>
+  <path d="m1003.61,575.59l6.13,0l0,4.82l-6.13,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_316"/>
+  <path d="m1003.61,583.73l6.13,0l0,4.82l-6.13,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_317"/>
+  <path d="m1003.61,591.88l6.13,0l0,4.82l-6.13,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_318"/>
+  <path d="m1003.61,600.01l6.13,0l0,4.83l-6.13,0l0,-4.83zm0,0" fill="#798884" fill-rule="nonzero" id="svg_319"/>
+  <path d="m1003.61,608.16l6.13,0l0,4.82l-6.13,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_320"/>
+  <path d="m1003.61,616.31l6.13,0l0,4.82l-6.13,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_321"/>
+  <path d="m1003.61,624.45l6.13,0l0,4.82l-6.13,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_322"/>
+  <path d="m1003.61,632.59l6.13,0l0,4.83l-6.13,0l0,-4.83zm0,0" fill="#798884" fill-rule="nonzero" id="svg_323"/>
+  <path d="m1003.61,640.74l6.13,0l0,4.82l-6.13,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_324"/>
+  <path d="m1003.61,648.88l6.13,0l0,4.82l-6.13,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_325"/>
+  <path d="m1003.61,657.02l6.13,0l0,4.83l-6.13,0l0,-4.83zm0,0" fill="#798884" fill-rule="nonzero" id="svg_326"/>
+  <path d="m1003.61,665.16l6.13,0l0,4.83l-6.13,0l0,-4.83zm0,0" fill="#798884" fill-rule="nonzero" id="svg_327"/>
+  <path d="m1003.61,673.31l6.13,0l0,4.82l-6.13,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_328"/>
+  <path d="m1003.61,681.46l6.13,0l0,4.82l-6.13,0l0,-4.82zm0,0" fill="#798884" fill-rule="nonzero" id="svg_329"/>
+  <path d="m1003.61,689.59l6.13,0l0,4.83l-6.13,0l0,-4.83zm0,0" fill="#798884" fill-rule="nonzero" id="svg_330"/>
+  <g clip-path="url(#55629da14c)" id="svg_331">
+   <g clip-path="url(#f3c5b79e25)" id="svg_332">
+    <path d="m1017.54,495l0,3.13l42.38,0l0,-3.13l-42.38,0zm0,0" fill="url(#94ba221ccc)" fill-rule="nonzero" id="svg_333"/>
+   </g>
+  </g>
+  <g clip-path="url(#404a4f500b)" id="svg_334">
+   <g clip-path="url(#da51b802c1)" id="svg_335">
+    <path d="m1017.54,503.15l0,3.12l26.14,0l0,-3.12l-26.14,0zm0,0" fill="url(#7e3f24c2f6)" fill-rule="nonzero" id="svg_336"/>
+   </g>
+  </g>
+  <g clip-path="url(#bc8af17e84)" id="svg_337">
+   <g clip-path="url(#58cc4d7181)" id="svg_338">
+    <path d="m1042.84,519.44l0,3.12l34.7,0l0,-3.12l-34.7,0zm0,0" fill="url(#fc272b08e8)" fill-rule="nonzero" id="svg_339"/>
+   </g>
+  </g>
+  <path d="m1101.73,522.56l-15.44,0c-0.88,0 -1.59,-0.7 -1.59,-1.56c0,-0.86 0.71,-1.56 1.59,-1.56l15.44,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_340"/>
+  <g clip-path="url(#6bd54f93fe)" id="svg_341">
+   <g clip-path="url(#bd5471dafb)" id="svg_342">
+    <path d="m1028.83,543.87l0,3.12l16.47,0l0,-3.12l-16.47,0zm0,0" fill="url(#7e073ba6ed)" fill-rule="nonzero" id="svg_343"/>
+   </g>
+  </g>
+  <g clip-path="url(#47fb0440fd)" id="svg_344">
+   <g clip-path="url(#82d5cd006b)" id="svg_345">
+    <path d="m1054.48,568.3l0,3.13l26.09,0l0,-3.13l-26.09,0zm0,0" fill="url(#2686ff515c)" fill-rule="nonzero" id="svg_346"/>
+   </g>
+  </g>
+  <path d="m1114.68,571.43l-25.65,0c-0.87,0 -1.58,-0.71 -1.58,-1.57c0,-0.86 0.71,-1.56 1.58,-1.56l25.65,0c0.87,0 1.59,0.7 1.59,1.56c0,0.86 -0.72,1.57 -1.59,1.57zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_347"/>
+  <g clip-path="url(#0048b1394b)" id="svg_348">
+   <g clip-path="url(#910b550fb8)" id="svg_349">
+    <path d="m1124.32,568.3l0,3.13l23.35,0l0,-3.13l-23.35,0zm0,0" fill="url(#ddd95be9ef)" fill-rule="nonzero" id="svg_350"/>
+   </g>
+  </g>
+  <g clip-path="url(#9383612b59)" id="svg_351">
+   <g clip-path="url(#a7f465ce63)" id="svg_352">
+    <path d="m1067.28,576.44l0,3.12l27.51,0l0,-3.12l-27.51,0zm0,0" fill="url(#0a295045b1)" fill-rule="nonzero" id="svg_353"/>
+   </g>
+  </g>
+  <g clip-path="url(#7794c6ba38)" id="svg_354">
+   <g clip-path="url(#35346c8cab)" id="svg_355">
+    <path d="m1054.04,592.73l0,3.12l27.5,0l0,-3.12l-27.5,0zm0,0" fill="url(#8992ccdd54)" fill-rule="nonzero" id="svg_356"/>
+   </g>
+  </g>
+  <g clip-path="url(#9a9fa16287)" id="svg_357">
+   <g clip-path="url(#0cc6ad2259)" id="svg_358">
+    <path d="m1054.61,617.16l0,3.12l21.01,0l0,-3.12l-21.01,0zm0,0" fill="url(#90ae7b3ce9)" fill-rule="nonzero" id="svg_359"/>
+   </g>
+  </g>
+  <g clip-path="url(#363881c0fc)" id="svg_360">
+   <g clip-path="url(#051728b082)" id="svg_361">
+    <path d="m1042.68,625.3l0,3.12l21,0l0,-3.12l-21,0zm0,0" fill="url(#ae2721556f)" fill-rule="nonzero" id="svg_362"/>
+   </g>
+  </g>
+  <g clip-path="url(#2f1c94fce6)" id="svg_363">
+   <g clip-path="url(#d54c36d8a2)" id="svg_364">
+    <path d="m1042.68,633.44l0,3.13l21,0l0,-3.13l-21,0zm0,0" fill="url(#5ecdb9f238)" fill-rule="nonzero" id="svg_365"/>
+   </g>
+  </g>
+  <path d="m1102.09,636.57l-30.7,0c-0.87,0 -1.58,-0.71 -1.58,-1.57c0,-0.86 0.71,-1.56 1.58,-1.56l30.7,0c0.87,0 1.59,0.7 1.59,1.56c0,0.86 -0.72,1.57 -1.59,1.57zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_366"/>
+  <g clip-path="url(#9068aebc55)" id="svg_367">
+   <g clip-path="url(#aa5d3f10f0)" id="svg_368">
+    <path d="m1107.99,633.44l0,3.13l25.43,0l0,-3.13l-25.43,0zm0,0" fill="url(#68e056413b)" fill-rule="nonzero" id="svg_369"/>
+   </g>
+  </g>
+  <path d="m1149.93,636.57l-6.55,0c-0.87,0 -1.58,-0.71 -1.58,-1.57c0,-0.86 0.71,-1.56 1.58,-1.56l6.55,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.57 -1.58,1.57zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_370"/>
+  <g clip-path="url(#ffdd637f3d)" id="svg_371">
+   <g clip-path="url(#6d4c7127cb)" id="svg_372">
+    <path d="m1042.69,609.01l0,3.12l33.83,0l0,-3.12l-33.83,0zm0,0" fill="url(#2241af067d)" fill-rule="nonzero" id="svg_373"/>
+   </g>
+  </g>
+  <g clip-path="url(#79ff7edb8c)" id="svg_374">
+   <g clip-path="url(#70097bb681)" id="svg_375">
+    <path d="m1081.53,617.16l0,3.12l121.99,0l0,-3.12l-121.99,0zm0,0" fill="url(#26fd483461)" fill-rule="nonzero" id="svg_376"/>
+   </g>
+  </g>
+  <path d="m1114.66,612.13l-30.66,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l30.66,0c0.88,0 1.59,0.7 1.59,1.56c0,0.86 -0.7,1.56 -1.59,1.56zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_377"/>
+  <g clip-path="url(#c0d41ab259)" id="svg_378">
+   <g clip-path="url(#df6c77db8b)" id="svg_379">
+    <path d="m1120.25,609.01l0,3.12l28.08,0l0,-3.12l-28.08,0zm0,0" fill="url(#6010921a8b)" fill-rule="nonzero" id="svg_380"/>
+   </g>
+  </g>
+  <g clip-path="url(#29a3e82486)" id="svg_381">
+   <g clip-path="url(#7e92e0d56c)" id="svg_382">
+    <path d="m1042.8,600.87l0,3.13l17.92,0l0,-3.13l-17.92,0zm0,0" fill="url(#fbd9c6f3ae)" fill-rule="nonzero" id="svg_383"/>
+   </g>
+  </g>
+  <g clip-path="url(#2f9ec473d4)" id="svg_384">
+   <g clip-path="url(#f28340784c)" id="svg_385">
+    <path d="m1066.82,584.59l0,3.12l36.91,0l0,-3.12l-36.91,0zm0,0" fill="url(#5cc95ee9f8)" fill-rule="nonzero" id="svg_386"/>
+   </g>
+  </g>
+  <path d="m1139.94,579.56l-38.3,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l38.31,0c0.87,0 1.58,0.7 1.58,1.56c-0.01,0.86 -0.71,1.56 -1.59,1.56zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_387"/>
+  <g clip-path="url(#86f8cc87ff)" id="svg_388">
+   <g clip-path="url(#c3cb8dde57)" id="svg_389">
+    <path d="m1145.69,576.44l0,3.12l29.27,0l0,-3.12l-29.27,0zm0,0" fill="url(#e59f6252ed)" fill-rule="nonzero" id="svg_390"/>
+   </g>
+  </g>
+  <path d="m1190.34,506.27l-9.82,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l9.82,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_391"/>
+  <path d="m1201.51,530.71l-28.82,0c-0.87,0 -1.58,-0.7 -1.58,-1.57c0,-0.85 0.71,-1.55 1.58,-1.55l28.82,0c0.87,0 1.58,0.7 1.58,1.55c0,0.87 -0.71,1.57 -1.58,1.57zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_392"/>
+  <path d="m1165.2,530.71l-8.97,0c-0.87,0 -1.59,-0.7 -1.59,-1.57c0,-0.85 0.72,-1.55 1.59,-1.55l8.97,0c0.87,0 1.58,0.7 1.58,1.55c0,0.87 -0.71,1.57 -1.58,1.57zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_393"/>
+  <path d="m1102.75,563.28l-5.37,0c-0.87,0 -1.58,-0.7 -1.58,-1.57c0,-0.85 0.71,-1.55 1.58,-1.55l5.37,0c0.88,0 1.59,0.7 1.59,1.55c-0.02,0.87 -0.71,1.57 -1.59,1.57zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_394"/>
+  <path d="m1164.2,571.43l-7.16,0c-0.87,0 -1.58,-0.71 -1.58,-1.57c0,-0.86 0.71,-1.56 1.58,-1.56l7.16,0c0.87,0 1.59,0.7 1.59,1.56c0,0.86 -0.72,1.57 -1.59,1.57zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_395"/>
+  <path d="m1187.68,579.56l-7.17,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l7.17,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_396"/>
+  <path d="m1117.93,587.71l-7.17,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l7.17,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_397"/>
+  <path d="m1162.08,612.13l-7.17,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l7.17,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_398"/>
+  <g clip-path="url(#fc86744637)" id="svg_399">
+   <g clip-path="url(#2dc47d1509)" id="svg_400">
+    <path d="m1144.98,503.15l0,3.12l26.13,0l0,-3.12l-26.13,0zm0,0" fill="url(#d3df8cc17e)" fill-rule="nonzero" id="svg_401"/>
+   </g>
+  </g>
+  <g clip-path="url(#168bf598d9)" id="svg_402">
+   <g clip-path="url(#65eafb813d)" id="svg_403">
+    <path d="m1029.77,511.3l0,3.12l26.14,0l0,-3.12l-26.14,0zm0,0" fill="url(#e821d4e371)" fill-rule="nonzero" id="svg_404"/>
+   </g>
+  </g>
+  <g clip-path="url(#5dbae4e765)" id="svg_405">
+   <g clip-path="url(#32c7d92b61)" id="svg_406">
+    <path d="m1043.68,527.59l0,3.12l26.13,0l0,-3.12l-26.13,0zm0,0" fill="url(#10b32f6c62)" fill-rule="nonzero" id="svg_407"/>
+   </g>
+  </g>
+  <path d="m1135.29,506.27l-79,0c-0.88,0 -1.59,-0.7 -1.59,-1.56c0,-0.86 0.71,-1.56 1.59,-1.56l79,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.56 -1.58,1.56zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_408"/>
+  <path d="m1146.87,530.71l-67.75,0c-0.87,0 -1.58,-0.7 -1.58,-1.57c0,-0.85 0.71,-1.55 1.58,-1.55l67.75,0c0.87,0 1.58,0.7 1.58,1.55c0,0.87 -0.71,1.57 -1.58,1.57zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_409"/>
+  <g clip-path="url(#7e88e2eb38)" id="svg_410">
+   <g clip-path="url(#7af03e9d67)" id="svg_411">
+    <path d="m1028.56,552.01l0,3.12l31.63,0l0,-3.12l-31.63,0zm0,0" fill="url(#759af6e7af)" fill-rule="nonzero" id="svg_412"/>
+   </g>
+  </g>
+  <g clip-path="url(#eeea4b74e1)" id="svg_413">
+   <g clip-path="url(#f3edf8c1d8)" id="svg_414">
+    <path d="m1042.83,560.16l0,3.12l47.98,0l0,-3.12l-47.98,0zm0,0" fill="url(#147625ede1)" fill-rule="nonzero" id="svg_415"/>
+   </g>
+  </g>
+  <g clip-path="url(#06b067b972)" id="svg_416">
+   <g clip-path="url(#ec455e5b11)" id="svg_417">
+    <path d="m1068.28,552.01l0,3.12l70.91,0l0,-3.12l-70.91,0zm0,0" fill="url(#41d71ba0ec)" fill-rule="nonzero" id="svg_418"/>
+   </g>
+  </g>
+  <g clip-path="url(#e9f326fe68)" id="svg_419">
+   <g clip-path="url(#92c98a2801)" id="svg_420">
+    <path d="m1125.16,584.59l0,3.12l78.36,0l0,-3.12l-78.36,0zm0,0" fill="url(#e59d732242)" fill-rule="nonzero" id="svg_421"/>
+   </g>
+  </g>
+  <g clip-path="url(#7f7be6cfa1)" id="svg_422">
+   <g clip-path="url(#67e89ae8ac)" id="svg_423">
+    <path d="m1042.84,535.72l0,3.12l73.43,0l0,-3.12l-73.43,0zm0,0" fill="url(#97f88c617f)" fill-rule="nonzero" id="svg_424"/>
+   </g>
+  </g>
+  <g clip-path="url(#2a973c4775)" id="svg_425">
+   <g clip-path="url(#f2bfb14cd7)" id="svg_426">
+    <path d="m1054.48,658.43l0,3.12l26.09,0l0,-3.12l-26.09,0zm0,0" fill="url(#3d5a362e55)" fill-rule="nonzero" id="svg_427"/>
+   </g>
+  </g>
+  <path d="m1114.68,661.55l-25.65,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l25.65,0c0.87,0 1.59,0.7 1.59,1.56c0,0.86 -0.72,1.56 -1.59,1.56zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_428"/>
+  <g clip-path="url(#02de65bc37)" id="svg_429">
+   <g clip-path="url(#427d59c422)" id="svg_430">
+    <path d="m1124.32,658.43l0,3.12l23.35,0l0,-3.12l-23.35,0zm0,0" fill="url(#915f759283)" fill-rule="nonzero" id="svg_431"/>
+   </g>
+  </g>
+  <g clip-path="url(#20951a771a)" id="svg_432">
+   <g clip-path="url(#a9405b8392)" id="svg_433">
+    <path d="m1067.28,666.56l0,3.13l27.51,0l0,-3.13l-27.51,0zm0,0" fill="url(#183142760a)" fill-rule="nonzero" id="svg_434"/>
+   </g>
+  </g>
+  <g clip-path="url(#cb535484c9)" id="svg_435">
+   <g clip-path="url(#ced41468a0)" id="svg_436">
+    <path d="m1054.04,682.85l0,3.12l27.5,0l0,-3.12l-27.5,0zm0,0" fill="url(#ee64dc3e85)" fill-rule="nonzero" id="svg_437"/>
+   </g>
+  </g>
+  <g clip-path="url(#df963b8f9c)" id="svg_438">
+   <g clip-path="url(#9367e92ad9)" id="svg_439">
+    <path d="m1042.8,691l0,3.12l17.92,0l0,-3.12l-17.92,0zm0,0" fill="url(#48e97548d5)" fill-rule="nonzero" id="svg_440"/>
+   </g>
+  </g>
+  <g clip-path="url(#99dd983866)" id="svg_441">
+   <g clip-path="url(#7985c48a61)" id="svg_442">
+    <path d="m1066.82,674.71l0,3.13l36.91,0l0,-3.13l-36.91,0zm0,0" fill="url(#88fe32ea71)" fill-rule="nonzero" id="svg_443"/>
+   </g>
+  </g>
+  <path d="m1139.94,669.69l-38.3,0c-0.87,0 -1.58,-0.71 -1.58,-1.56c0,-0.86 0.71,-1.57 1.58,-1.57l38.31,0c0.87,0 1.58,0.71 1.58,1.57c-0.01,0.85 -0.71,1.56 -1.59,1.56zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_444"/>
+  <g clip-path="url(#ff2da6acd8)" id="svg_445">
+   <g clip-path="url(#4031ba9ae4)" id="svg_446">
+    <path d="m1145.69,666.56l0,3.13l29.27,0l0,-3.13l-29.27,0zm0,0" fill="url(#24bfcf8d0e)" fill-rule="nonzero" id="svg_447"/>
+   </g>
+  </g>
+  <path d="m1102.75,653.4l-5.37,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l5.37,0c0.88,0 1.59,0.7 1.59,1.56c-0.02,0.86 -0.71,1.56 -1.59,1.56zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_448"/>
+  <path d="m1164.2,661.55l-7.16,0c-0.87,0 -1.58,-0.7 -1.58,-1.56c0,-0.86 0.71,-1.56 1.58,-1.56l7.16,0c0.87,0 1.59,0.7 1.59,1.56c0,0.86 -0.72,1.56 -1.59,1.56zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_449"/>
+  <path d="m1187.68,669.69l-7.17,0c-0.87,0 -1.58,-0.71 -1.58,-1.56c0,-0.86 0.71,-1.57 1.58,-1.57l7.17,0c0.87,0 1.58,0.71 1.58,1.57c0,0.85 -0.71,1.56 -1.58,1.56zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_450"/>
+  <path d="m1117.93,677.84l-7.17,0c-0.87,0 -1.58,-0.71 -1.58,-1.57c0,-0.86 0.71,-1.56 1.58,-1.56l7.17,0c0.87,0 1.58,0.7 1.58,1.56c0,0.86 -0.71,1.57 -1.58,1.57zm0,0" fill="#96f755" fill-rule="nonzero" id="svg_451"/>
+  <g clip-path="url(#b277fbb152)" id="svg_452">
+   <g clip-path="url(#0557650813)" id="svg_453">
+    <path d="m1028.56,642.14l0,3.13l31.63,0l0,-3.13l-31.63,0zm0,0" fill="url(#81404a4442)" fill-rule="nonzero" id="svg_454"/>
+   </g>
+  </g>
+  <g clip-path="url(#66eff2c9f9)" id="svg_455">
+   <g clip-path="url(#c5f8ce9227)" id="svg_456">
+    <path d="m1042.83,650.28l0,3.12l47.98,0l0,-3.12l-47.98,0zm0,0" fill="url(#31512705d7)" fill-rule="nonzero" id="svg_457"/>
+   </g>
+  </g>
+  <g clip-path="url(#a29b4cdc5b)" id="svg_458">
+   <g clip-path="url(#94aacf758c)" id="svg_459">
+    <path d="m1068.28,642.14l0,3.13l70.91,0l0,-3.13l-70.91,0zm0,0" fill="url(#7e4910e0e8)" fill-rule="nonzero" id="svg_460"/>
+   </g>
+  </g>
+  <g clip-path="url(#0623e7b214)" id="svg_461">
+   <g clip-path="url(#d55c56bf25)" id="svg_462">
+    <path d="m1125.16,674.71l0,3.13l78.36,0l0,-3.13l-78.36,0zm0,0" fill="url(#9139596541)" fill-rule="nonzero" id="svg_463"/>
+   </g>
+  </g>
+  <path d="m903.93,494.15l1.66,0l0,3.29l-1.66,0l0,-3.29zm0,0" fill="#798884" fill-rule="nonzero" id="svg_464"/>
+  <path d="m902.84,499.7l2.75,0l0,3.28l-2.75,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_465"/>
+  <path d="m902.84,505.24l2.75,0l0,3.29l-2.75,0l0,-3.29zm0,0" fill="#798884" fill-rule="nonzero" id="svg_466"/>
+  <path d="m902.84,510.78l2.75,0l0,3.28l-2.75,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_467"/>
+  <path d="m902.84,516.32l2.75,0l0,3.29l-2.75,0l0,-3.29zm0,0" fill="#798884" fill-rule="nonzero" id="svg_468"/>
+  <path d="m902.84,521.87l2.75,0l0,3.28l-2.75,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_469"/>
+  <path d="m902.84,527.41l2.75,0l0,3.29l-2.75,0l0,-3.29zm0,0" fill="#798884" fill-rule="nonzero" id="svg_470"/>
+  <path d="m902.84,532.95l2.75,0l0,3.28l-2.75,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_471"/>
+  <path d="m902.84,538.5l2.75,0l0,3.28l-2.75,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_472"/>
+  <path d="m901.42,544.04l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_473"/>
+  <path d="m901.42,549.59l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_474"/>
+  <path d="m901.42,555.12l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_475"/>
+  <path d="m901.42,560.66l4.17,0l0,3.29l-4.17,0l0,-3.29zm0,0" fill="#798884" fill-rule="nonzero" id="svg_476"/>
+  <path d="m901.42,566.21l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_477"/>
+  <path d="m901.42,571.75l4.17,0l0,3.29l-4.17,0l0,-3.29zm0,0" fill="#798884" fill-rule="nonzero" id="svg_478"/>
+  <path d="m901.42,577.29l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_479"/>
+  <path d="m901.42,582.84l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_480"/>
+  <path d="m901.42,588.38l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_481"/>
+  <path d="m901.42,593.93l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_482"/>
+  <path d="m901.42,599.47l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_483"/>
+  <path d="m901.42,605.02l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_484"/>
+  <path d="m901.42,610.55l4.17,0l0,3.29l-4.17,0l0,-3.29zm0,0" fill="#798884" fill-rule="nonzero" id="svg_485"/>
+  <path d="m901.42,616.1l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_486"/>
+  <path d="m901.42,621.64l4.17,0l0,3.29l-4.17,0l0,-3.29zm0,0" fill="#798884" fill-rule="nonzero" id="svg_487"/>
+  <path d="m901.42,627.19l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_488"/>
+  <path d="m901.42,632.54l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_489"/>
+  <path d="m901.42,638.09l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_490"/>
+  <path d="m901.42,643.63l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_491"/>
+  <path d="m901.42,649.18l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_492"/>
+  <path d="m901.42,654.71l4.17,0l0,3.29l-4.17,0l0,-3.29zm0,0" fill="#798884" fill-rule="nonzero" id="svg_493"/>
+  <path d="m901.42,660.26l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_494"/>
+  <path d="m901.42,665.8l4.17,0l0,3.29l-4.17,0l0,-3.29zm0,0" fill="#798884" fill-rule="nonzero" id="svg_495"/>
+  <path d="m901.42,671.35l4.17,0l0,3.28l-4.17,0l0,-3.28zm0,0" fill="#798884" fill-rule="nonzero" id="svg_496"/>
+  <path d="m901.42,676.88l4.17,0l0,3.29l-4.17,0l0,-3.29zm0,0" fill="#798884" fill-rule="nonzero" id="svg_497"/>
+  <g clip-path="url(#c15d59ddd5)" id="svg_498">
+   <g clip-path="url(#257edef64c)" id="svg_499">
+    <path d="m910.91,494.74l0,2.13l28.84,0l0,-2.13l-28.84,0zm0,0" fill="url(#ecc67dd903)" fill-rule="nonzero" id="svg_500"/>
+   </g>
+  </g>
+  <g clip-path="url(#184c535997)" id="svg_501">
+   <g clip-path="url(#b8f5bf833a)" id="svg_502">
+    <path d="m910.91,500.28l0,2.12l17.78,0l0,-2.12l-17.78,0zm0,0" fill="url(#c2dade1128)" fill-rule="nonzero" id="svg_503"/>
+   </g>
+  </g>
+  <g clip-path="url(#52aba33166)" id="svg_504">
+   <g clip-path="url(#e447a7f60c)" id="svg_505">
+    <path d="m928.14,511.37l0,2.12l23.6,0l0,-2.12l-23.6,0zm0,0" fill="url(#2a15e2ce06)" fill-rule="nonzero" id="svg_506"/>
+   </g>
+  </g>
+  <g clip-path="url(#d522f1eea2)" id="svg_507">
+   <g clip-path="url(#c857cd377b)" id="svg_508">
+    <path d="m918.61,528l0,2.12l11.19,0l0,-2.12l-11.19,0zm0,0" fill="url(#05b600cf3e)" fill-rule="nonzero" id="svg_509"/>
+   </g>
+  </g>
+  <g clip-path="url(#ae5b528cfd)" id="svg_510">
+   <g clip-path="url(#7c91fa9e83)" id="svg_511">
+    <path d="m936.05,544.62l0,2.12l17.75,0l0,-2.12l-17.75,0zm0,0" fill="url(#aa8f5d1aab)" fill-rule="nonzero" id="svg_512"/>
+   </g>
+  </g>
+  <g clip-path="url(#d7c9990377)" id="svg_513">
+   <g clip-path="url(#0dd99ded96)" id="svg_514">
+    <path d="m944.75,550.16l0,2.13l18.73,0l0,-2.13l-18.73,0zm0,0" fill="url(#576d9ce96f)" fill-rule="nonzero" id="svg_515"/>
+   </g>
+  </g>
+  <g clip-path="url(#4f7aee2e7b)" id="svg_516">
+   <g clip-path="url(#b00a02b341)" id="svg_517">
+    <path d="m935.75,561.25l0,2.13l18.71,0l0,-2.13l-18.71,0zm0,0" fill="url(#bb945db9c7)" fill-rule="nonzero" id="svg_518"/>
+   </g>
+  </g>
+  <g clip-path="url(#956e495384)" id="svg_519">
+   <g clip-path="url(#fd232bc8db)" id="svg_520">
+    <path d="m936.14,577.88l0,2.12l14.3,0l0,-2.12l-14.3,0zm0,0" fill="url(#81b7baa831)" fill-rule="nonzero" id="svg_521"/>
+   </g>
+  </g>
+  <g clip-path="url(#c025487627)" id="svg_522">
+   <g clip-path="url(#8b94b644ef)" id="svg_523">
+    <path d="m928.03,583.43l0,2.12l14.28,0l0,-2.12l-14.28,0zm0,0" fill="url(#3f27b62651)" fill-rule="nonzero" id="svg_524"/>
+   </g>
+  </g>
+  <g clip-path="url(#ce75ee7585)" id="svg_525">
+   <g clip-path="url(#356686abe4)" id="svg_526">
+    <path d="m928.03,588.96l0,2.12l14.28,0l0,-2.12l-14.28,0zm0,0" fill="url(#dadb6c80f6)" fill-rule="nonzero" id="svg_527"/>
+   </g>
+  </g>
+  <g clip-path="url(#2d03aecbad)" id="svg_528">
+   <g clip-path="url(#0d688de087)" id="svg_529">
+    <path d="m946.5,588.96l0,2.12l23.03,0l0,-2.12l-23.03,0zm0,0" fill="url(#b43f32a4ac)" fill-rule="nonzero" id="svg_530"/>
+   </g>
+  </g>
+  <g clip-path="url(#4641c28049)" id="svg_531">
+   <g clip-path="url(#20a4bc24ac)" id="svg_532">
+    <path d="m928.03,572.34l0,2.12l23.01,0l0,-2.12l-23.01,0zm0,0" fill="url(#d4e891ad7f)" fill-rule="nonzero" id="svg_533"/>
+   </g>
+  </g>
+  <g clip-path="url(#f593b205f7)" id="svg_534">
+   <g clip-path="url(#e163b5e201)" id="svg_535">
+    <path d="m955.07,572.34l0,2.12l23.02,0l0,-2.12l-23.02,0zm0,0" fill="url(#8aa8216bf6)" fill-rule="nonzero" id="svg_536"/>
+   </g>
+  </g>
+  <g clip-path="url(#88767648a4)" id="svg_537">
+   <g clip-path="url(#59b860e78e)" id="svg_538">
+    <path d="m928.11,566.79l0,2.12l12.19,0l0,-2.12l-12.19,0zm0,0" fill="url(#06559d8a24)" fill-rule="nonzero" id="svg_539"/>
+   </g>
+  </g>
+  <g clip-path="url(#43225fe286)" id="svg_540">
+   <g clip-path="url(#840b44535a)" id="svg_541">
+    <path d="m944.45,555.71l0,2.12l25.13,0l0,-2.12l-25.13,0zm0,0" fill="url(#62a4cf8b87)" fill-rule="nonzero" id="svg_542"/>
+   </g>
+  </g>
+  <g clip-path="url(#6a8f0ff349)" id="svg_543">
+   <g clip-path="url(#ff0302ba47)" id="svg_544">
+    <path d="m973.29,555.71l0,2.12l7.02,0l0,-2.12l-7.02,0zm0,0" fill="url(#b028c69e08)" fill-rule="nonzero" id="svg_545"/>
+   </g>
+  </g>
+  <g clip-path="url(#0a43129ad9)" id="svg_546">
+   <g clip-path="url(#dd5629816e)" id="svg_547">
+    <path d="m919.24,505.82l0,2.13l17.78,0l0,-2.13l-17.78,0zm0,0" fill="url(#9a38160e9f)" fill-rule="nonzero" id="svg_548"/>
+   </g>
+  </g>
+  <g clip-path="url(#4f23e4e491)" id="svg_549">
+   <g clip-path="url(#6bc7330bd1)" id="svg_550">
+    <path d="m928.7,516.91l0,2.13l17.79,0l0,-2.13l-17.79,0zm0,0" fill="url(#39b9f4e481)" fill-rule="nonzero" id="svg_551"/>
+   </g>
+  </g>
+  <g clip-path="url(#3246ca32e1)" id="svg_552">
+   <g clip-path="url(#655e86bbc6)" id="svg_553">
+    <path d="m910.91,655.51l0,2.13l28.84,0l0,-2.13l-28.84,0zm0,0" fill="url(#341b665a8e)" fill-rule="nonzero" id="svg_554"/>
+   </g>
+  </g>
+  <g clip-path="url(#c3fb0f0062)" id="svg_555">
+   <g clip-path="url(#85f9e5ef81)" id="svg_556">
+    <path d="m910.91,661.06l0,2.12l17.78,0l0,-2.12l-17.78,0zm0,0" fill="url(#c3f2b33459)" fill-rule="nonzero" id="svg_557"/>
+   </g>
+  </g>
+  <g clip-path="url(#1b303b9673)" id="svg_558">
+   <g clip-path="url(#ace988de6f)" id="svg_559">
+    <path d="m928.14,672.14l0,2.12l23.6,0l0,-2.12l-23.6,0zm0,0" fill="url(#409aebe7c7)" fill-rule="nonzero" id="svg_560"/>
+   </g>
+  </g>
+  <g clip-path="url(#729ebb37f7)" id="svg_561">
+   <g clip-path="url(#9e56592262)" id="svg_562">
+    <path d="m919.24,666.61l0,2.12l17.78,0l0,-2.12l-17.78,0zm0,0" fill="url(#7d676689b4)" fill-rule="nonzero" id="svg_563"/>
+   </g>
+  </g>
+  <g clip-path="url(#9847092fc2)" id="svg_564">
+   <g clip-path="url(#810e4d9203)" id="svg_565">
+    <path d="m928.7,677.68l0,2.12l17.79,0l0,-2.12l-17.79,0zm0,0" fill="url(#e40c353dfd)" fill-rule="nonzero" id="svg_566"/>
+   </g>
+  </g>
+  <g clip-path="url(#d5a8aa29aa)" id="svg_567">
+   <g clip-path="url(#1e60ef602a)" id="svg_568">
+    <path d="m918.41,533.54l0,2.12l21.52,0l0,-2.12l-21.52,0zm0,0" fill="url(#821a5cc39d)" fill-rule="nonzero" id="svg_569"/>
+   </g>
+  </g>
+  <g clip-path="url(#5cf4db729d)" id="svg_570">
+   <g clip-path="url(#bafaa0fc04)" id="svg_571">
+    <path d="m928.13,539.09l0,2.12l32.65,0l0,-2.12l-32.65,0zm0,0" fill="url(#b6a9bd83ef)" fill-rule="nonzero" id="svg_572"/>
+   </g>
+  </g>
+  <g clip-path="url(#e9f76731f2)" id="svg_573">
+   <g clip-path="url(#8880c2bff0)" id="svg_574">
+    <path d="m936.05,605.68l0,2.12l17.75,0l0,-2.12l-17.75,0zm0,0" fill="url(#45adfa8b83)" fill-rule="nonzero" id="svg_575"/>
+   </g>
+  </g>
+  <g clip-path="url(#41bea60560)" id="svg_576">
+   <g clip-path="url(#94e7e16bb9)" id="svg_577">
+    <path d="m944.75,611.22l0,2.12l18.73,0l0,-2.12l-18.73,0zm0,0" fill="url(#a4f837869f)" fill-rule="nonzero" id="svg_578"/>
+   </g>
+  </g>
+  <g clip-path="url(#d03e7a5fac)" id="svg_579">
+   <g clip-path="url(#8f6f959d6e)" id="svg_580">
+    <path d="m935.75,622.31l0,2.12l18.71,0l0,-2.12l-18.71,0zm0,0" fill="url(#6b163109e2)" fill-rule="nonzero" id="svg_581"/>
+   </g>
+  </g>
+  <g clip-path="url(#65a3655c94)" id="svg_582">
+   <g clip-path="url(#c2a3db4dfd)" id="svg_583">
+    <path d="m923.45,638.94l0,2.12l14.28,0l0,-2.12l-14.28,0zm0,0" fill="url(#14a98892df)" fill-rule="nonzero" id="svg_584"/>
+   </g>
+  </g>
+  <g clip-path="url(#0c79e87184)" id="svg_585">
+   <g clip-path="url(#70a30f64f2)" id="svg_586">
+    <path d="m915.32,644.48l0,2.13l14.29,0l0,-2.13l-14.29,0zm0,0" fill="url(#d281c012bd)" fill-rule="nonzero" id="svg_587"/>
+   </g>
+  </g>
+  <g clip-path="url(#7553ced05e)" id="svg_588">
+   <g clip-path="url(#505877a06b)" id="svg_589">
+    <path d="m915.32,650.02l0,2.12l14.29,0l0,-2.12l-14.29,0zm0,0" fill="url(#2e8e85ba7c)" fill-rule="nonzero" id="svg_590"/>
+   </g>
+  </g>
+  <g clip-path="url(#8f5dffb088)" id="svg_591">
+   <g clip-path="url(#8bc89f850c)" id="svg_592">
+    <path d="m933.79,650.02l0,2.12l23.04,0l0,-2.12l-23.04,0zm0,0" fill="url(#6c8b5b9a93)" fill-rule="nonzero" id="svg_593"/>
+   </g>
+  </g>
+  <g clip-path="url(#9ef1e3f768)" id="svg_594">
+   <g clip-path="url(#4df5c4c43e)" id="svg_595">
+    <path d="m915.32,633.39l0,2.13l23.02,0l0,-2.13l-23.02,0zm0,0" fill="url(#074ae226c2)" fill-rule="nonzero" id="svg_596"/>
+   </g>
+  </g>
+  <g clip-path="url(#d01e29affa)" id="svg_597">
+   <g clip-path="url(#4daf8b011d)" id="svg_598">
+    <path d="m942.36,633.39l0,2.13l23.03,0l0,-2.13l-23.03,0zm0,0" fill="url(#d80fa78395)" fill-rule="nonzero" id="svg_599"/>
+   </g>
+  </g>
+  <g clip-path="url(#9658b075b7)" id="svg_600">
+   <g clip-path="url(#4d29884333)" id="svg_601">
+    <path d="m928.11,627.85l0,2.12l12.19,0l0,-2.12l-12.19,0zm0,0" fill="url(#7ef4012280)" fill-rule="nonzero" id="svg_602"/>
+   </g>
+  </g>
+  <g clip-path="url(#fedb9a8306)" id="svg_603">
+   <g clip-path="url(#4934f2b2b0)" id="svg_604">
+    <path d="m944.45,616.77l0,2.12l25.13,0l0,-2.12l-25.13,0zm0,0" fill="url(#f1e36555be)" fill-rule="nonzero" id="svg_605"/>
+   </g>
+  </g>
+  <g clip-path="url(#b1ab6af421)" id="svg_606">
+   <g clip-path="url(#e4b196e3fa)" id="svg_607">
+    <path d="m973.29,616.77l0,2.12l7.02,0l0,-2.12l-7.02,0zm0,0" fill="url(#a0752efe6d)" fill-rule="nonzero" id="svg_608"/>
+   </g>
+  </g>
+  <g clip-path="url(#3ccf4a1fb6)" id="svg_609">
+   <g clip-path="url(#152e475dc3)" id="svg_610">
+    <path d="m918.41,594.6l0,2.12l21.52,0l0,-2.12l-21.52,0zm0,0" fill="url(#61d5971cd4)" fill-rule="nonzero" id="svg_611"/>
+   </g>
+  </g>
+  <g clip-path="url(#8e63fadb44)" id="svg_612">
+   <g clip-path="url(#02dc7efb47)" id="svg_613">
+    <path d="m928.13,600.14l0,2.13l32.65,0l0,-2.13l-32.65,0zm0,0" fill="url(#a34a429b0a)" fill-rule="nonzero" id="svg_614"/>
+   </g>
+  </g>
+  <g clip-path="url(#f3d9c7f226)" id="svg_615">
+   <g clip-path="url(#b1dc0048df)" id="svg_616">
+    <path d="m928.12,522.45l0,2.12l27.89,0l0,-2.12l-27.89,0zm0,0" fill="url(#340d389ef5)" fill-rule="nonzero" id="svg_617"/>
+   </g>
+  </g>
+  <g clip-path="url(#f99d184e9f)" id="svg_618">
+   <path d="m1146.98,56.89l166.5,0l0,166.5l-166.5,0l0,-166.5zm0,0" fill="#f7df1e" fill-rule="nonzero" id="svg_619"/>
+  </g>
+  <path d="m1190.76,196.03l12.74,-7.71c2.46,4.36 4.7,8.04 10.07,8.04c5.13,0 8.38,-2.01 8.38,-9.83l0,-53.2l15.64,0l0,53.42c0,16.2 -9.5,23.59 -23.36,23.59c-12.52,0 -19.78,-6.49 -23.47,-14.31" fill="#000000" fill-rule="nonzero" id="svg_620"/>
+  <path d="m1246.09,194.35l12.74,-7.38c3.36,5.48 7.72,9.51 15.42,9.51c6.49,0 10.63,-3.25 10.63,-7.72c0,-5.37 -4.25,-7.26 -11.41,-10.39l-3.91,-1.68c-11.29,-4.81 -18.77,-10.83 -18.77,-23.58c0,-11.73 8.93,-20.68 22.91,-20.68c9.94,0 17.1,3.47 22.24,12.52l-12.19,7.83c-2.68,-4.81 -5.58,-6.71 -10.05,-6.71c-4.59,0 -7.49,2.91 -7.49,6.71c0,4.69 2.9,6.59 9.61,9.5l3.91,1.67c13.3,5.7 20.79,11.51 20.79,24.59c0,14.08 -11.06,21.8 -25.93,21.8c-14.53,0 -23.91,-6.94 -28.5,-15.99" fill="#000000" fill-rule="nonzero" id="svg_621"/>
+  <g clip-path="url(#3b0a5424cf)" id="svg_622">
+   <path d="m203.9,189.43l-13.86,155.09l-62.29,17.25l-62.12,-17.23l-13.84,-155.11l152.1,0l0.01,0zm0,0" fill="#e44d26" fill-rule="nonzero" id="svg_623"/>
+  </g>
+  <path d="m127.84,348.58l50.34,-13.94l11.84,-132.53l-62.18,0l0,146.47zm0,0" fill="#f16529" fill-rule="nonzero" id="svg_624"/>
+  <path d="m100.9,240.16l26.94,0l0,-19.03l-47.75,0l0.46,5.11l4.68,52.42l42.61,0l0,-19.02l-25.2,0l-1.74,-19.48zm0,0" fill="#ebebeb" fill-rule="nonzero" id="svg_625"/>
+  <path d="m105.2,288.18l-19.12,0l2.67,29.87l39,10.81l0.09,-0.02l0,-19.79l-0.08,0.02l-21.21,-5.72l-1.35,-15.17zm0,0" fill="#ebebeb" fill-rule="nonzero" id="svg_626"/>
+  <g clip-path="url(#c12d98debe)" id="svg_627">
+   <path d="m65.94,147.27l9.67,0l0,9.56l8.85,0l0,-9.56l9.68,0l0,28.93l-9.67,0l0,-9.68l-8.86,0l0,9.68l-9.67,0l0,-28.93zm0,0" fill="#000000" fill-rule="nonzero" id="svg_628"/>
+  </g>
+  <g clip-path="url(#f9d82532e0)" id="svg_629">
+   <path d="m106.87,156.87l-8.52,0l0,-9.6l26.72,0l0,9.6l-8.52,0l0,19.33l-9.68,0l0,-19.33zm0,0" fill="#000000" fill-rule="nonzero" id="svg_630"/>
+  </g>
+  <g clip-path="url(#e4adb3c083)" id="svg_631">
+   <path d="m129.32,147.27l10.08,0l6.21,10.17l6.2,-10.17l10.1,0l0,28.93l-9.64,0l0,-14.34l-6.66,10.29l-0.16,0l-6.66,-10.29l0,14.34l-9.47,0l0,-28.93zm0,0" fill="#000000" fill-rule="nonzero" id="svg_632"/>
+  </g>
+  <g clip-path="url(#3f0d90f7c2)" id="svg_633">
+   <path d="m166.73,147.27l9.67,0l0,19.37l13.62,0l0,9.56l-23.29,0l0,-28.93zm0,0" fill="#000000" fill-rule="nonzero" id="svg_634"/>
+  </g>
+  <path d="m127.78,278.66l23.45,0l-2.21,24.68l-21.24,5.73l0,19.78l39.03,-10.8l0.29,-3.22l4.48,-50.08l0.46,-5.11l-44.26,0l0,19.02zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_635"/>
+  <path d="m127.78,240.11l0,0.05l45.99,0l0.39,-4.28l0.86,-9.64l0.46,-5.11l-47.7,0l0,18.98zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_636"/>
+  <g clip-path="url(#b3ac38d0ec)" id="svg_637">
+   <path d="m129.62,652.94l-63.65,-17.65l-14.18,-158.91l155.85,0l-14.19,158.88l-63.83,17.67l0,0.01zm0,0" fill="#264de4" fill-rule="nonzero" id="svg_638"/>
+  </g>
+  <path d="m181.29,625.14l12.14,-135.77l-63.71,0l0,150.06l51.57,-14.29zm0,0" fill="#2965f1" fill-rule="nonzero" id="svg_639"/>
+  <path d="m84.3,548.31l1.75,19.49l43.67,0l0,-19.49l-45.42,0zm0,0" fill="#ebebeb" fill-rule="nonzero" id="svg_640"/>
+  <path d="m80.79,508.86l1.78,19.49l47.15,0l0,-19.49l-48.93,0zm0,0" fill="#ebebeb" fill-rule="nonzero" id="svg_641"/>
+  <path d="m129.72,598.92l-0.09,0.03l-21.73,-5.87l-1.39,-15.54l-19.58,0l2.73,30.6l39.97,11.09l0.09,-0.03l0,-20.28zm0,0" fill="#ebebeb" fill-rule="nonzero" id="svg_642"/>
+  <g clip-path="url(#03394433c2)" id="svg_643">
+   <path d="m88.47,433.19l23.63,0l0,9.87l-13.75,0l0,9.88l13.75,0l0,9.86l-23.63,0l0,-29.61zm0,0" fill="#000000" fill-rule="nonzero" id="svg_644"/>
+  </g>
+  <g clip-path="url(#7f8a5f9e15)" id="svg_645">
+   <path d="m116.83,433.19l23.63,0l0,8.59l-13.75,0l0,1.71l13.75,0l0,19.74l-23.63,0l0,-9.01l13.75,0l0,-1.71l-13.75,0l0,-19.32zm0,0" fill="#000000" fill-rule="nonzero" id="svg_646"/>
+  </g>
+  <g clip-path="url(#25ffc70152)" id="svg_647">
+   <path d="m145.19,433.19l23.63,0l0,8.59l-13.75,0l0,1.71l13.75,0l0,19.74l-23.63,0l0,-9.01l13.74,0l0,-1.71l-13.74,0l0,-19.32zm0,0" fill="#000000" fill-rule="nonzero" id="svg_648"/>
+  </g>
+  <path d="m175.01,548.31l3.51,-39.45l-48.87,0l0,19.49l27.49,0l-1.77,19.96l-25.72,0l0,19.49l24.03,0l-2.27,25.27l-21.76,5.87l0,20.27l40,-11.07l0.29,-3.29l4.59,-51.31l0.48,-5.23zm0,0" fill="#ffffff" fill-rule="nonzero" id="svg_649"/>
+ </g>
+</svg>
